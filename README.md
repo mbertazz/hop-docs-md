@@ -1,3 +1,3 @@
 # Apache Hop Documentation (imported)
-
-Documentazione convertita da AsciiDoc (layout Antora) a Markdown per GitBook.
+Questa è la documentazione importata in formato Markdown.
+Usa la sidebar per navigare nelle sezioni.
