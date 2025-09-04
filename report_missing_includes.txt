@@ -1,0 +1,118 @@
+FILE: modules/ROOT/pages/best-practices/index.adoc
+1:asciidoctor: ERROR: tmp.DtMvwK5GQc: line 32: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/best-practices/naming-conventions.adoc
+2:asciidoctor: ERROR: tmp.DtMvwK5GQc: line 36: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/best-practices/size-matters.adoc
+3:asciidoctor: ERROR: tmp.DtMvwK5GQc: line 40: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/best-practices/variables.adoc
+4:asciidoctor: ERROR: tmp.DtMvwK5GQc: line 44: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/best-practices/logging.adoc
+5:asciidoctor: ERROR: tmp.DtMvwK5GQc: line 52: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/best-practices/mappings.adoc
+6:asciidoctor: ERROR: tmp.DtMvwK5GQc: line 54: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/best-practices/metadata-injection.adoc
+7:asciidoctor: ERROR: tmp.DtMvwK5GQc: line 58: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/best-practices/performance-basics.adoc
+8:asciidoctor: ERROR: tmp.DtMvwK5GQc: line 62: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/best-practices/loops.adoc
+9:asciidoctor: ERROR: tmp.DtMvwK5GQc: line 66: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/best-practices/governance.adoc
+---
+FILE: modules/ROOT/pages/concepts.adoc
+1:asciidoctor: ERROR: tmp.Af1i4QbHNp: line 23: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/snippets/hop-tools/hop-tools.adoc
+2:asciidoctor: ERROR: tmp.Af1i4QbHNp: line 25: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/snippets/hop-concepts/item-types.adoc
+3:asciidoctor: ERROR: tmp.Af1i4QbHNp: line 27: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/snippets/hop-concepts/hop-projects-environments.adoc
+4:asciidoctor: ERROR: tmp.Af1i4QbHNp: line 31: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/snippets/hop-concepts/metadata.adoc
+5:asciidoctor: ERROR: tmp.Af1i4QbHNp: line 36: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/snippets/hop-concepts/data-types.adoc
+6:asciidoctor: ERROR: tmp.Af1i4QbHNp: line 44: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/snippets/hop-concepts/lazy-loading.adoc
+---
+FILE: modules/ROOT/pages/getting-started/hop-concepts.adoc
+1:asciidoctor: ERROR: tmp.CuLq5FF4sG: line 43: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/hop-concepts/item-types.adoc
+2:asciidoctor: ERROR: tmp.CuLq5FF4sG: line 45: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/hop-concepts/hop-projects-environments.adoc
+---
+FILE: modules/ROOT/pages/getting-started/hop-tools.adoc
+1:asciidoctor: ERROR: tmp.QDblKAgTNV: line 28: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/hop-tools/hop-gui.adoc
+2:asciidoctor: ERROR: tmp.QDblKAgTNV: line 62: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/hop-tools/hop-conf.adoc
+3:asciidoctor: ERROR: tmp.QDblKAgTNV: line 123: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/hop-tools/hop-encrypt.adoc
+4:asciidoctor: ERROR: tmp.QDblKAgTNV: line 178: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/hop-tools/hop-run.adoc
+5:asciidoctor: ERROR: tmp.QDblKAgTNV: line 261: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/hop-tools/hop-search.adoc
+6:asciidoctor: ERROR: tmp.QDblKAgTNV: line 329: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/hop-tools/hop-server.adoc
+7:asciidoctor: ERROR: tmp.QDblKAgTNV: line 397: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/hop-tools/hop-import.adoc
+---
+FILE: modules/ROOT/pages/hop-tools/hop-conf/hop-conf.adoc
+1:asciidoctor: ERROR: tmp.qllkCkANMx: line 284: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/hop-conf-projects.adoc
+2:asciidoctor: ERROR: tmp.qllkCkANMx: line 288: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/hop-conf-run-hpl-hwf.adoc
+3:asciidoctor: ERROR: tmp.qllkCkANMx: line 302: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/hop-conf-cloud-azure-blob-storage.adoc
+4:asciidoctor: ERROR: tmp.qllkCkANMx: line 310: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/hop-conf-cloud-google-cloud-storage.adoc
+5:asciidoctor: ERROR: tmp.qllkCkANMx: line 316: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/hop-conf-cloud-google-drive.adoc
+---
+FILE: modules/ROOT/pages/installation-configuration.adoc
+1:asciidoctor: ERROR: tmp.lQZSo9ZXhY: line 113: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/snippets/variables/hop-config-folder.adoc
+2:asciidoctor: ERROR: tmp.lQZSo9ZXhY: line 115: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/snippets/variables/hop-audit-folder.adoc
+3:asciidoctor: ERROR: tmp.lQZSo9ZXhY: line 117: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/snippets/variables/hop-options.adoc
+4:asciidoctor: ERROR: tmp.lQZSo9ZXhY: line 160: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/snippets/variables/hop-audit-folder.adoc
+5:asciidoctor: ERROR: tmp.lQZSo9ZXhY: line 162: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/snippets/variables/hop-config-folder.adoc
+6:asciidoctor: ERROR: tmp.lQZSo9ZXhY: line 164: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/snippets/variables/hop-plugin-base-folders.adoc
+7:asciidoctor: ERROR: tmp.lQZSo9ZXhY: line 166: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/snippets/variables/hop-shared-jdbc-folder.adoc
+---
+FILE: modules/ROOT/pages/pipeline/pipeline-metrics.adoc
+1:asciidoctor: ERROR: tmp.EjzO7myPTf: line 25: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/pipeline-metrics-table.adoc
+---
+FILE: modules/ROOT/pages/pipeline/run-preview-debug-pipeline.adoc
+1:asciidoctor: ERROR: tmp.Y9K0ArDEvf: line 82: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/pipeline-metrics-table.adoc
+---
+FILE: modules/ROOT/pages/pipeline/transforms/getvariable.adoc
+1:asciidoctor: ERROR: tmp.tDxN6C4pXM: line 89: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/snippets/variables/control-space.adoc
+---
+FILE: modules/ROOT/pages/pipeline/transforms/salesforcedelete.adoc
+1:asciidoctor: ERROR: tmp.R1b7aFPwPA: line 59: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/salesforce-connection.adoc
+2:asciidoctor: ERROR: tmp.R1b7aFPwPA: line 61: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/salesforce-settings.adoc
+---
+FILE: modules/ROOT/pages/pipeline/transforms/salesforceinput.adoc
+1:asciidoctor: ERROR: tmp.XkELGT4dC9: line 58: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/salesforce-connection.adoc
+---
+FILE: modules/ROOT/pages/pipeline/transforms/salesforceinsert.adoc
+1:asciidoctor: ERROR: tmp.wAmiV9dFft: line 55: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/salesforce-connection.adoc
+2:asciidoctor: ERROR: tmp.wAmiV9dFft: line 57: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/salesforce-settings.adoc
+3:asciidoctor: ERROR: tmp.wAmiV9dFft: line 65: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/salesforce-fields.adoc
+---
+FILE: modules/ROOT/pages/pipeline/transforms/salesforceupdate.adoc
+1:asciidoctor: ERROR: tmp.mwMyAWsEok: line 55: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/salesforce-connection.adoc
+2:asciidoctor: ERROR: tmp.mwMyAWsEok: line 60: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/salesforce-settings.adoc
+3:asciidoctor: ERROR: tmp.mwMyAWsEok: line 62: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/salesforce-fields.adoc
+---
+FILE: modules/ROOT/pages/pipeline/transforms/salesforceupsert.adoc
+1:asciidoctor: ERROR: tmp.DM5kW4F6q4: line 55: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/salesforce-connection.adoc
+2:asciidoctor: ERROR: tmp.DM5kW4F6q4: line 57: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/salesforce-settings.adoc
+3:asciidoctor: ERROR: tmp.DM5kW4F6q4: line 70: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/salesforce-fields.adoc
+---
+FILE: modules/ROOT/pages/pipeline/transforms/textfileoutput.adoc
+1:asciidoctor: ERROR: tmp.JXvzjukc3e: line 152: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/snippets/rounding-types.adoc
+---
+FILE: modules/ROOT/pages/projects/advanced.adoc
+1:asciidoctor: ERROR: tmp.Ywac7KJLUm: line 153: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-tools/hop-conf/hop-conf-projects.adoc
+---
+FILE: modules/ROOT/pages/protips/index.adoc
+1:asciidoctor: ERROR: tmp.8ZynrBCUCV: line 29: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/variables/hop-audit-folder.adoc
+2:asciidoctor: ERROR: tmp.8ZynrBCUCV: line 31: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/variables/hop-config-folder.adoc
+3:asciidoctor: ERROR: tmp.8ZynrBCUCV: line 33: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/variables/hop-plugin-base-folders.adoc
+4:asciidoctor: ERROR: tmp.8ZynrBCUCV: line 35: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/variables/hop-shared-jdbc-folder.adoc
+5:asciidoctor: ERROR: tmp.8ZynrBCUCV: line 37: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/snippets/variables/hop-windows-shell-encoding.adoc
+---
+FILE: modules/ROOT/pages/snippets/hop-concepts/hop-projects-environments.adoc
+1:asciidoctor: ERROR: tmp.c2PGXkR8fO: line 20: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/project.adoc
+2:asciidoctor: ERROR: tmp.c2PGXkR8fO: line 23: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/environment.adoc
+---
+FILE: modules/ROOT/pages/snippets/hop-concepts/item-types.adoc
+1:asciidoctor: ERROR: tmp.Gu2DFp0pHX: line 20: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/action.adoc
+2:asciidoctor: ERROR: tmp.Gu2DFp0pHX: line 23: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/hop.adoc
+3:asciidoctor: ERROR: tmp.Gu2DFp0pHX: line 26: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/pipeline.adoc
+4:asciidoctor: ERROR: tmp.Gu2DFp0pHX: line 31: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/transform.adoc
+5:asciidoctor: ERROR: tmp.Gu2DFp0pHX: line 34: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/workflow.adoc
+---
+FILE: modules/ROOT/pages/snippets/hop-tools/hop-tools.adoc
+1:asciidoctor: ERROR: tmp.oFLkJxZe2F: line 20: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/hop-conf.adoc
+2:asciidoctor: ERROR: tmp.oFLkJxZe2F: line 23: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/hop-encrypt.adoc
+3:asciidoctor: ERROR: tmp.oFLkJxZe2F: line 26: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/hop-gui.adoc
+4:asciidoctor: ERROR: tmp.oFLkJxZe2F: line 29: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/hop-run.adoc
+5:asciidoctor: ERROR: tmp.oFLkJxZe2F: line 32: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/hop-search.adoc
+6:asciidoctor: ERROR: tmp.oFLkJxZe2F: line 35: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/hop-server.adoc
+---
+FILE: modules/ROOT/pages/variables.adoc
+1:asciidoctor: ERROR: tmp.vhbhp3okoP: line 85: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/snippets/variables/control-space.adoc
+2:asciidoctor: ERROR: tmp.vhbhp3okoP: line 323: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/snippets/variables/hop-audit-folder.adoc
+3:asciidoctor: ERROR: tmp.vhbhp3okoP: line 325: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/snippets/variables/hop-config-folder.adoc
+4:asciidoctor: ERROR: tmp.vhbhp3okoP: line 327: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/snippets/variables/hop-plugin-base-folders.adoc
+5:asciidoctor: ERROR: tmp.vhbhp3okoP: line 329: include file not found: /home/PRIMEURAD/matteo.bertazzo/hop/docs/hop-user-manual/snippets/variables/hop-shared-jdbc-folder.adoc
+---

@@ -1,0 +1,224 @@
+<div id="header">
+
+# Decrypt files with PGP
+
+</div>
+
+<div id="content">
+
+<div class="sect1">
+
+## Description
+
+<div class="sectionbody">
+
+<div class="paragraph">
+
+The `Decrypt Files With PGP` action can be used to decrypt files.
+
+</div>
+
+<div class="paragraph">
+
+GnuPG package must be installed in the runtime environment and encryption keys added to the runtime user keystore for this to function.
+
+</div>
+
+</div>
+
+</div>
+
+<div class="sect1">
+
+## Options
+
+<div class="sectionbody">
+
+<div class="sect2">
+
+### General tab
+
+| Option                        | Description                                                            |
+| ----------------------------- | ---------------------------------------------------------------------- |
+| Action name                   | The name of the workflow action.                                       |
+| GPG location                  | The file path of the GnuPG executable (e.g. `/usr/bin/gpg`).           |
+| Include subfolders            | Whether or not to include subfolders.                                  |
+| Copy previous results to args |                                                                        |
+| File/Folder source            | The file to decrypt, can be added to the Files/Folders list using Add. |
+| File/Folder destination       | The destination of the decrypted files.                                |
+| Wildcard                      | A regex wildcard.                                                      |
+| Files/Folders                 | The files to decrypt.                                                  |
+
+</div>
+
+<div class="sect2">
+
+### Destination File Tab
+
+Option
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+Description
+
+Destination file
+
+Create destination folder
+
+Whether or not to create the destination folder.
+
+Destination is a file
+
+Whether or not the destination is a file.
+
+Do not keep folder structure
+
+Whether or not to keep the folder structure. If unchecked, the folder structure is flattened.
+
+Add date to filename
+
+Adds the date to the file name.
+
+Add time to filename
+
+Adds the time to the file name.
+
+Specify Date time format
+
+Whether or not to specify the date time format.
+
+Date time format
+
+The format of the date time.
+
+Add date before extension
+
+Before or after extension.
+
+If destination file exists
+
+<div class="content">
+
+<div class="ulist">
+
+  - Do nothing
+
+  - Overwrite the destination file
+
+  - Create file with unique name
+
+  - Delete source file
+
+  - Move source file to folder
+
+  - Fail
+
+</div>
+
+</div>
+
+Move to folder
+
+Destination folder
+
+The destination folder.
+
+Create folder
+
+Whether or not to create the folder.
+
+Add date
+
+Adds the date.
+
+Add time
+
+Adds the time.
+
+Specify format
+
+Whether or not to specify the date time format.
+
+Add date before extension
+
+The format of the date time.
+
+If file exists in destination folder
+
+<div class="content">
+
+<div class="ulist">
+
+  - Do nothing
+
+  - Overwrite the destination file
+
+  - Create file with unique name
+
+  - Delete source file
+
+  - Move source file to folder
+
+  - Fail
+
+</div>
+
+</div>
+
+<div class="sect2">
+
+### Destination File Tab
+
+Option
+
+</div>
+
+Description
+
+Success On
+
+Success condition
+
+<div class="content">
+
+<div class="paragraph">
+
+Which condition to validate for a successful run
+
+</div>
+
+<div class="ulist">
+
+  - Success when all works (default)
+
+  - Success when at least x files decrypted
+
+  - Success when number of errors lesser than
+
+</div>
+
+</div>
+
+Nr error lesser than
+
+Success if errors lesser than.
+
+Result files name
+
+Add files to result files name
+
+<div id="footer">
+
+<div id="footer-text">
+
+Last updated 2025-09-04 18:24:20 +0200
+
+</div>
+
+</div>

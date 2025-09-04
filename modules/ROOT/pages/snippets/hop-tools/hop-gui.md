@@ -1,0 +1,23 @@
+<div id="header">
+
+</div>
+
+<div id="content">
+
+<div class="paragraph">
+
+Hop Gui is the visual IDE where Hop data developers create, test, run and manage the life cycle for workflows and pipelines. In addition to functionality for development and life cycle management, Hop Gui contains tools and perspectives to manage projects and environments, to search and manage metadata, to manage and version control a large variety of files and to explore logging in a Neo4j graph.
+
+</div>
+
+</div>
+
+<div id="footer">
+
+<div id="footer-text">
+
+Last updated 2025-09-04 18:23:43 +0200
+
+</div>
+
+</div>
