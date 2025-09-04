@@ -1195,7 +1195,7 @@ Tip
 
 <div class="content">
 
-![Hop Server Status](../assets/images/hop-server/hop-server-status.png)
+![Hop Server Status](/images/hop-server/hop-server-status.png)
 
 </div>
 

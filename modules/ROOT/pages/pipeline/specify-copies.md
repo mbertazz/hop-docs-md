@@ -61,7 +61,7 @@ Click on a transform’s icon and click on the `Specify copies` icon in the pop-
 
 <div class="content">
 
-![Specify copies](../assets/images/hop-gui/pipeline/specify-copies.png)
+![Specify copies](/images/hop-gui/pipeline/specify-copies.png)
 
 </div>
 
@@ -77,7 +77,7 @@ Change the number of copies for the selected transform in the dialog that will p
 
 <div class="content">
 
-![Specify copies dialog](../assets/images/hop-gui/pipeline/specify-copies-dialog.png)
+![Specify copies dialog](/images/hop-gui/pipeline/specify-copies-dialog.png)
 
 </div>
 
@@ -93,7 +93,7 @@ Your transform will now show the number of copies you specified in the upper lef
 
 <div class="content">
 
-![Specify 4 copies](../assets/images/hop-gui/pipeline/specify-copies-four.png)
+![Specify 4 copies](/images/hop-gui/pipeline/specify-copies-four.png)
 
 </div>
 
@@ -109,7 +109,7 @@ When your pipeline starts, Apache Hop will create the specified number of copies
 
 <div class="content">
 
-![Specify copies expanded](../assets/images/hop-gui/pipeline/specify-copies-expanded.png)
+![Specify copies expanded](/images/hop-gui/pipeline/specify-copies-expanded.png)
 
 </div>
 
@@ -209,7 +209,7 @@ A special word of caution: when using multiple copies on a [Sort rows](pipeline/
 
 <div class="content">
 
-![Specify copies with sort rows](../assets/images/hop-gui/pipeline/specify-copies-sort-rows.png)
+![Specify copies with sort rows](/images/hop-gui/pipeline/specify-copies-sort-rows.png)
 
 </div>
 

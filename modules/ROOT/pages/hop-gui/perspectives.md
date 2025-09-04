@@ -26,21 +26,21 @@ Here are the available perspectives:
 
 <div class="ulist">
 
-  - <span class="image">![data orch](../assets/images/icons/data_orch.svg)</span> [Data Orchestration](hop-gui/perspective-data-orchestration.fbMlG7Akpz)
+  - <span class="image">![data orch](/images/icons/data_orch.svg)</span> [Data Orchestration](hop-gui/perspective-data-orchestration.fbMlG7Akpz)
 
-  - <span class="image">![execution](../assets/images/icons/execution.svg)</span> [Execution Information](hop-gui/perspective-execution-information.fbMlG7Akpz)
+  - <span class="image">![execution](/images/icons/execution.svg)</span> [Execution Information](hop-gui/perspective-execution-information.fbMlG7Akpz)
 
-  - <span class="image">![gear](../assets/images/icons/gear.svg)</span> [Configuration](hop-gui/perspective-configuration.fbMlG7Akpz)
+  - <span class="image">![gear](/images/icons/gear.svg)</span> [Configuration](hop-gui/perspective-configuration.fbMlG7Akpz)
 
-  - <span class="image">![metadata](../assets/images/icons/metadata.svg)</span> [Metadata](hop-gui/perspective-metadata.fbMlG7Akpz)
+  - <span class="image">![metadata](/images/icons/metadata.svg)</span> [Metadata](hop-gui/perspective-metadata.fbMlG7Akpz)
 
-  - <span class="image">![folder](../assets/images/icons/folder.svg)</span> [File explorer](hop-gui/perspective-file-explorer.fbMlG7Akpz)
+  - <span class="image">![folder](/images/icons/folder.svg)</span> [File explorer](hop-gui/perspective-file-explorer.fbMlG7Akpz)
 
-  - <span class="image">![search](../assets/images/icons/search.svg)</span> [Search](hop-gui/perspective-search.fbMlG7Akpz)
+  - <span class="image">![search](/images/icons/search.svg)</span> [Search](hop-gui/perspective-search.fbMlG7Akpz)
 
-  - <span class="image">![plugin](../assets/images/icons/plugin.svg)</span> [Plugins explorer](hop-gui/perspective-plugin.fbMlG7Akpz)
+  - <span class="image">![plugin](/images/icons/plugin.svg)</span> [Plugins explorer](hop-gui/perspective-plugin.fbMlG7Akpz)
 
-  - <span class="image">![neo4j logo](../assets/images/icons/neo4j_logo.svg)</span> [Neo4j](hop-gui/perspective-neo4j.fbMlG7Akpz)
+  - <span class="image">![neo4j logo](/images/icons/neo4j_logo.svg)</span> [Neo4j](hop-gui/perspective-neo4j.fbMlG7Akpz)
 
 </div>
 

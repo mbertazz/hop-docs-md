@@ -42,7 +42,7 @@ For more information on configuring the Hop server check the [Hop Server docs](h
 
 <div class="content">
 
-![Web Service metadata example](../assets/images/hop-server/web-service-example.png)
+![Web Service metadata example](/images/hop-server/web-service-example.png)
 
 </div>
 
@@ -236,7 +236,7 @@ The web service pipeline looks like this:
 
 <div class="content">
 
-![Web Service pipeline example](../assets/images/hop-server/web-service-pipeline-example.png)
+![Web Service pipeline example](/images/hop-server/web-service-pipeline-example.png)
 
 </div>
 

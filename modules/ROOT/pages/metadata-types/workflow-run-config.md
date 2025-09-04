@@ -14,7 +14,7 @@
 
 <div class="paragraph">
 
-<span class="image">![workflow run config](../assets/images/icons/workflow_run_config.svg)</span>
+<span class="image">![workflow run config](/images/icons/workflow_run_config.svg)</span>
 
 </div>
 

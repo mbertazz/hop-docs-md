@@ -12,7 +12,7 @@
 
 <div class="paragraph">
 
-Icon: <span class="image">![data orch](../assets/images/icons/data_orch.svg)</span>
+Icon: <span class="image">![data orch](/images/icons/data_orch.svg)</span>
 
 </div>
 

@@ -20,7 +20,7 @@ To create a new project click the **Add a new project** button.
 
 <div class="paragraph">
 
-<span class="image">![Add a new project](../assets/images/hop-gui/environment/project-add.svg)</span>
+<span class="image">![Add a new project](/images/hop-gui/environment/project-add.svg)</span>
 
 </div>
 
@@ -32,7 +32,7 @@ This button opens the following dialog:
 
 <div class="paragraph">
 
-<span class="image">![Create a project](../assets/images/hop-gui/environment/create-project-dialog.png)</span>
+<span class="image">![Create a project](/images/hop-gui/environment/create-project-dialog.png)</span>
 
 </div>
 
@@ -77,7 +77,7 @@ To create a new environment click the **Add a new environment** button.
 
 <div class="paragraph">
 
-<span class="image">![Environment](../assets/images/hop-gui/environment/environment-add.svg)</span>
+<span class="image">![Environment](/images/hop-gui/environment/environment-add.svg)</span>
 
 </div>
 
@@ -89,7 +89,7 @@ This button opens the following dialogue:
 
 <div class="paragraph">
 
-<span class="image">![Create an environment](../assets/images/hop-gui/environment/create-environment-dialogue.png)</span>
+<span class="image">![Create an environment](/images/hop-gui/environment/create-environment-dialogue.png)</span>
 
 </div>
 
@@ -174,7 +174,7 @@ The edit button opens the environment file and lets you add variable key-value p
 
 <div class="content">
 
-![Environment Variables](../assets/images/hop-gui/environment/environment-variables.png)
+![Environment Variables](/images/hop-gui/environment/environment-variables.png)
 
 </div>
 
@@ -206,7 +206,7 @@ To switch between projects the projects list can be used from the main Hop Gui t
 
 <div class="content">
 
-![Switch project](../assets/images/hop-gui/environment/switch-project-list.png)
+![Switch project](/images/hop-gui/environment/switch-project-list.png)
 
 </div>
 
@@ -222,7 +222,7 @@ After switching to a project the environments list will be updated to the enviro
 
 <div class="content">
 
-![Switch environment](../assets/images/hop-gui/environment/switch-environment-list.png)
+![Switch environment](/images/hop-gui/environment/switch-environment-list.png)
 
 </div>
 
@@ -246,7 +246,7 @@ To edit an existing project click the **Edit the selected project** button.
 
 <div class="paragraph">
 
-<span class="image">![Edit the selected project](../assets/images/hop-gui/environment/project-edit.svg)</span>
+<span class="image">![Edit the selected project](/images/hop-gui/environment/project-edit.svg)</span>
 
 </div>
 
@@ -264,7 +264,7 @@ To delete a project click the **Delete the selected project** button.
 
 <div class="paragraph">
 
-<span class="image">![Delete the selected project](../assets/images/hop-gui/environment/project-delete.svg)</span>
+<span class="image">![Delete the selected project](/images/hop-gui/environment/project-delete.svg)</span>
 
 </div>
 
@@ -286,7 +286,7 @@ To edit an existing environment click the **Edit the selected environment** butt
 
 <div class="paragraph">
 
-<span class="image">![Edit the selected environment](../assets/images/hop-gui/environment/environment-edit.svg)</span>
+<span class="image">![Edit the selected environment](/images/hop-gui/environment/environment-edit.svg)</span>
 
 </div>
 
@@ -304,7 +304,7 @@ To delete an environment click the **Delete the selected environment** button.
 
 <div class="paragraph">
 
-<span class="image">![Delete the selected environment](../assets/images/hop-gui/environment/environment-delete.svg)</span>
+<span class="image">![Delete the selected environment](/images/hop-gui/environment/environment-delete.svg)</span>
 
 </div>
 

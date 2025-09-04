@@ -20,7 +20,7 @@ As with designing workflows, the steps to run a workflow are very similar to run
 
 <div class="paragraph">
 
-Click the 'run' button <span class="image">![Run](../assets/images/getting-started/icons/run.svg)</span> in your workflow toolbar
+Click the 'run' button <span class="image">![Run](/images/getting-started/icons/run.svg)</span> in your workflow toolbar
 
 </div>
 
@@ -34,7 +34,7 @@ In the workflow run dialog, hit the 'New' button in the upper right corner to cr
 
 <div class="content">
 
-![Hop - New Workflow Config](../assets/images/getting-started/getting-started-run-workflow-dialog.png)
+![Hop - New Workflow Config](/images/getting-started/getting-started-run-workflow-dialog.png)
 
 </div>
 
@@ -50,7 +50,7 @@ In the dialog that pops up, add 'Local Workflow' as the workflow configuration n
 
 <div class="content">
 
-![Hop - New Workflow Config Dialog](../assets/images/getting-started/getting-started-run-workflow-config-dialog.png)
+![Hop - New Workflow Config Dialog](/images/getting-started/getting-started-run-workflow-config-dialog.png)
 
 </div>
 
@@ -88,7 +88,7 @@ Make sure your configuration is selected and hit 'Launch'.
 
 <div class="content">
 
-![Hop - New Workflow With Config Dialog](../assets/images/getting-started/getting-started-run-workflow-with-config.png)
+![Hop - New Workflow With Config Dialog](/images/getting-started/getting-started-run-workflow-with-config.png)
 
 </div>
 

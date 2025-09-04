@@ -94,7 +94,7 @@ If the temporary files are removed successfully, we move on to the "success" act
 
 <div class="paragraph">
 
-<span class="image">![Workflows - basic workflows](../assets/images/hop-gui/workflow/basic-workflow.png)</span>
+<span class="image">![Workflows - basic workflows](/images/hop-gui/workflow/basic-workflow.png)</span>
 
 </div>
 

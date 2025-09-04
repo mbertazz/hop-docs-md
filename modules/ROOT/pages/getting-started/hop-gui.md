@@ -106,7 +106,7 @@ After starting the Apache Hop GUI, you’ll be presented with the window below.
 
 <div class="paragraph">
 
-<span class="image">![Hop Gui Overview](../assets/images/getting-started/gs-hop-gui-overview-1.png)</span>
+<span class="image">![Hop Gui Overview](/images/getting-started/gs-hop-gui-overview-1.png)</span>
 
 </div>
 
@@ -124,7 +124,7 @@ Let’s divide the view into two parts:
 
 <div class="paragraph">
 
-<span class="image">![Hop Gui Overview](../assets/images/getting-started/gs-hop-gui-overview-2.png)</span> ￼
+<span class="image">![Hop Gui Overview](/images/getting-started/gs-hop-gui-overview-2.png)</span> ￼
 
 </div>
 
@@ -136,21 +136,21 @@ Let’s divide the view into two parts:
     
     <div class="ulist">
     
-      - <span class="image">![data orch](../assets/images/icons/data_orch.svg)</span> [Data Orchestration](hop-gui/perspective-data-orchestration.H7s7eigyvJ)
+      - <span class="image">![data orch](/images/icons/data_orch.svg)</span> [Data Orchestration](hop-gui/perspective-data-orchestration.H7s7eigyvJ)
     
-      - <span class="image">![execution](../assets/images/icons/execution.svg)</span> [Execution Information](hop-gui/perspective-execution-information.H7s7eigyvJ)
+      - <span class="image">![execution](/images/icons/execution.svg)</span> [Execution Information](hop-gui/perspective-execution-information.H7s7eigyvJ)
     
-      - <span class="image">![gear](../assets/images/icons/gear.svg)</span> [Configuration](hop-gui/perspective-configuration.H7s7eigyvJ)
+      - <span class="image">![gear](/images/icons/gear.svg)</span> [Configuration](hop-gui/perspective-configuration.H7s7eigyvJ)
     
-      - <span class="image">![metadata](../assets/images/icons/metadata.svg)</span> [Metadata](hop-gui/perspective-metadata.H7s7eigyvJ)
+      - <span class="image">![metadata](/images/icons/metadata.svg)</span> [Metadata](hop-gui/perspective-metadata.H7s7eigyvJ)
     
-      - <span class="image">![folder](../assets/images/icons/folder.svg)</span> [File explorer](hop-gui/perspective-file-explorer.H7s7eigyvJ)
+      - <span class="image">![folder](/images/icons/folder.svg)</span> [File explorer](hop-gui/perspective-file-explorer.H7s7eigyvJ)
     
-      - <span class="image">![search](../assets/images/icons/search.svg)</span> [Search](hop-gui/perspective-search.H7s7eigyvJ)
+      - <span class="image">![search](/images/icons/search.svg)</span> [Search](hop-gui/perspective-search.H7s7eigyvJ)
     
-      - <span class="image">![plugin](../assets/images/icons/plugin.svg)</span> [Plugins explorer](hop-gui/perspective-plugin.H7s7eigyvJ)
+      - <span class="image">![plugin](/images/icons/plugin.svg)</span> [Plugins explorer](hop-gui/perspective-plugin.H7s7eigyvJ)
     
-      - <span class="image">![neo4j logo](../assets/images/icons/neo4j_logo.svg)</span> [Neo4j](hop-gui/perspective-neo4j.H7s7eigyvJ)
+      - <span class="image">![neo4j logo](/images/icons/neo4j_logo.svg)</span> [Neo4j](hop-gui/perspective-neo4j.H7s7eigyvJ)
     
     </div>
 

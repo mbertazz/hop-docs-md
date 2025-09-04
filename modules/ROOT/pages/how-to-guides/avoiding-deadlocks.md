@@ -60,7 +60,7 @@ Deadlocks often occur with the [Stream Lookup](pipeline/transforms/streamlookup.
 
 <div class="paragraph">
 
-<span class="image">![Deadlocks in pipelines using Stream lookup - sample pipeline](../assets/images/how-to-guides/deadlocks-stream-lookup/deadlock-sample-stream-lookup-pipeline.png)</span>
+<span class="image">![Deadlocks in pipelines using Stream lookup - sample pipeline](/images/how-to-guides/deadlocks-stream-lookup/deadlock-sample-stream-lookup-pipeline.png)</span>
 
 </div>
 
@@ -76,7 +76,7 @@ Deadlocks often occur with the [Stream Lookup](pipeline/transforms/streamlookup.
 
 <div class="paragraph">
 
-<span class="image">![Deadlocks in pipelines using Stream lookup - rowset size](../assets/images/how-to-guides/deadlocks-stream-lookup/deadlock-sample-stream-lookup-rowset-size.png)</span>
+<span class="image">![Deadlocks in pipelines using Stream lookup - rowset size](/images/how-to-guides/deadlocks-stream-lookup/deadlock-sample-stream-lookup-rowset-size.png)</span>
 
 </div>
 
@@ -108,7 +108,7 @@ Increasing the rowset size can offer a short-term fix by buffering more rows, bu
 
 <div class="paragraph">
 
-<span class="image">![Deadlocks in pipelines using Stream lookup - adjust rowset size](../assets/images/how-to-guides/deadlocks-stream-lookup/deadlock-stream-lookup-adjust-rowset-size.png)</span>
+<span class="image">![Deadlocks in pipelines using Stream lookup - adjust rowset size](/images/how-to-guides/deadlocks-stream-lookup/deadlock-stream-lookup-adjust-rowset-size.png)</span>
 
 </div>
 
@@ -128,7 +128,7 @@ Increasing the rowset size can offer a short-term fix by buffering more rows, bu
 
 <div class="paragraph">
 
-<span class="image">![Deadlocks in pipelines using Stream lookup - separate input streams](../assets/images/how-to-guides/deadlocks-stream-lookup/deadlock-stream-lookup-separate-input-streams.png)</span>
+<span class="image">![Deadlocks in pipelines using Stream lookup - separate input streams](/images/how-to-guides/deadlocks-stream-lookup/deadlock-stream-lookup-separate-input-streams.png)</span>
 
 </div>
 
@@ -146,7 +146,7 @@ A more effective solution is to split input data streams into two independent co
 
 <div class="paragraph">
 
-<span class="image">![Deadlocks in pipelines using Stream lookup - divide pipelines](../assets/images/how-to-guides/deadlocks-stream-lookup/deadlock-stream-lookup-divide-in-pipelines.png)</span>
+<span class="image">![Deadlocks in pipelines using Stream lookup - divide pipelines](/images/how-to-guides/deadlocks-stream-lookup/deadlock-stream-lookup-divide-in-pipelines.png)</span>
 
 </div>
 
@@ -170,7 +170,7 @@ For pipelines requiring sequential processing, the "Blocking" transform can mana
 
 <div class="paragraph">
 
-<span class="image">![Deadlocks in pipelines using Stream lookup - blocking transform](../assets/images/how-to-guides/deadlocks-stream-lookup/deadlock-stream-lookup-use-blocking-transform.png)</span>
+<span class="image">![Deadlocks in pipelines using Stream lookup - blocking transform](/images/how-to-guides/deadlocks-stream-lookup/deadlock-stream-lookup-use-blocking-transform.png)</span>
 
 </div>
 
@@ -196,7 +196,7 @@ Deadlocks can also occur with the [Merge Join](pipeline/transforms/mergejoin.xUV
 
 <div class="paragraph">
 
-<span class="image">![Deadlocks in pipelines using Merge Join - sample pipeline](../assets/images/how-to-guides/deadlocks-merge-join/deadlock-sample-merge-join-pipeline.png)</span>
+<span class="image">![Deadlocks in pipelines using Merge Join - sample pipeline](/images/how-to-guides/deadlocks-merge-join/deadlock-sample-merge-join-pipeline.png)</span>
 
 </div>
 
@@ -226,7 +226,7 @@ As we mentioned in the previous example, increasing the rowset size can temporar
 
 <div class="paragraph">
 
-<span class="image">![Deadlocks in pipelines using Merge Join - rowset size](../assets/images/how-to-guides/deadlocks-stream-lookup/deadlock-stream-lookup-adjust-rowset-size.png)</span>
+<span class="image">![Deadlocks in pipelines using Merge Join - rowset size](/images/how-to-guides/deadlocks-stream-lookup/deadlock-stream-lookup-adjust-rowset-size.png)</span>
 
 </div>
 
@@ -252,7 +252,7 @@ Ensure that both input streams are sorted before they reach the **Merge Join** t
 
 <div class="paragraph">
 
-<span class="image">![Deadlocks in pipelines using Merge Join - sort both streams](../assets/images/how-to-guides/deadlocks-merge-join/deadlock-merge-join-sort-both-streams.png)</span>
+<span class="image">![Deadlocks in pipelines using Merge Join - sort both streams](/images/how-to-guides/deadlocks-merge-join/deadlock-merge-join-sort-both-streams.png)</span>
 
 </div>
 
@@ -278,7 +278,7 @@ For pipelines where sequential processing is essential, the [Blocking](pipeline/
 
 <div class="paragraph">
 
-<span class="image">![Deadlocks in pipelines using Merge Join - blocking transform](../assets/images/how-to-guides/deadlocks-merge-join/deadlock-merge-join-blocking-transform.png)</span>
+<span class="image">![Deadlocks in pipelines using Merge Join - blocking transform](/images/how-to-guides/deadlocks-merge-join/deadlock-merge-join-blocking-transform.png)</span>
 
 </div>
 

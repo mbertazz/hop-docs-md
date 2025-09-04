@@ -93,7 +93,7 @@ The *template pipeline* is an empty pipeline that contains all the necessary tra
 
 <div class="content">
 
-![Metadata Injection - template pipeline](../assets/images/hop-gui/metadata-injection-template-pipeline.svg)
+![Metadata Injection - template pipeline](/images/hop-gui/metadata-injection-template-pipeline.svg)
 
 </div>
 
@@ -115,7 +115,7 @@ The Metadata Injection transform reads the template pipeline and lets you map fi
 
 <div class="content">
 
-![Metadata Injection - injecting pipeline](../assets/images/hop-gui/metadata-injection-injecting-pipeline.svg)
+![Metadata Injection - injecting pipeline](/images/hop-gui/metadata-injection-injecting-pipeline.svg)
 
 </div>
 

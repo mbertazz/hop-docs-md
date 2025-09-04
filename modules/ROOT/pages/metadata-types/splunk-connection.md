@@ -14,7 +14,7 @@
 
 <div class="paragraph">
 
-<span class="image">![splunk](../assets/images/icons/splunk.svg)</span>
+<span class="image">![splunk](/images/icons/splunk.svg)</span>
 
 </div>
 

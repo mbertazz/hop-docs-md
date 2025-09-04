@@ -12,7 +12,7 @@
 
 <div class="paragraph">
 
-Icon: <span class="image">![folder](../assets/images/icons/folder.svg)</span>
+Icon: <span class="image">![folder](/images/icons/folder.svg)</span>
 
 </div>
 
@@ -77,7 +77,7 @@ The file operations are available through a number of toolbar options:
 
 <div class="content">
 
-![File explorer toolbar items](../assets/images/hop-gui/perspective-explorer-toolbar-items.png)
+![File explorer toolbar items](/images/hop-gui/perspective-explorer-toolbar-items.png)
 
 </div>
 
@@ -153,7 +153,7 @@ The "Git Info" icon in the toolbar will be enabled if there is information regar
 
 <div class="content">
 
-![Git information shown in a tab](../assets/images/hop-gui/perspective-explorer-git-info-panel.png)
+![Git information shown in a tab](/images/hop-gui/perspective-explorer-git-info-panel.png)
 
 </div>
 
@@ -169,7 +169,7 @@ Below the revision history you can see the revisions of a file. If you select a 
 
 <div class="content">
 
-![Git visual diff example](../assets/images/hop-gui/perspective-explorer-git-visual-diff-example.png)
+![Git visual diff example](/images/hop-gui/perspective-explorer-git-visual-diff-example.png)
 
 </div>
 
@@ -227,7 +227,7 @@ The right-click menu in Apache Hop Git integration offers several useful options
 
 <div class="content">
 
-![git right-click menu options in the explorer perspective](../assets/images/hop-gui/hop-gui-file-explorer-right-menu.png)
+![git right-click menu options in the explorer perspective](/images/hop-gui/hop-gui-file-explorer-right-menu.png)
 
 </div>
 
@@ -267,7 +267,7 @@ You can access these operations from the toolbar above the file explorer tree:
 
 <div class="content">
 
-![git toolbar items in the explorer perspective](../assets/images/hop-gui/perspective-explorer-git-toolbar-operations.png)
+![git toolbar items in the explorer perspective](/images/hop-gui/perspective-explorer-git-toolbar-operations.png)
 
 </div>
 

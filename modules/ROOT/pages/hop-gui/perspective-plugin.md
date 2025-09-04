@@ -12,7 +12,7 @@
 
 <div class="paragraph">
 
-Icon: <span class="image">![plugin](../assets/images/icons/plugin.svg)</span>
+Icon: <span class="image">![plugin](/images/icons/plugin.svg)</span>
 
 </div>
 

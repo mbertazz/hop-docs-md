@@ -12,7 +12,7 @@
 
 <div class="paragraph">
 
-<span class="image">![dataset](../assets/images/icons/dataset.svg)</span>
+<span class="image">![dataset](/images/icons/dataset.svg)</span>
 
 </div>
 

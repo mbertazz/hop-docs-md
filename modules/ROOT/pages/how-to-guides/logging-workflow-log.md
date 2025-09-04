@@ -58,7 +58,7 @@ The system displays the New Workflow Log view with the following fields to be co
 
 <div class="paragraph">
 
-<span class="image">![new workflow log](../assets/images/how-to-guides/logging-workflow-log/workflow-logging-new.jpg)</span>
+<span class="image">![new workflow log](/images/how-to-guides/logging-workflow-log/workflow-logging-new.jpg)</span>
 
 </div>
 
@@ -70,7 +70,7 @@ The Workflow Log can be configured as in the following example:
 
 <div class="paragraph">
 
-<span class="image">![configure workflow log](../assets/images/how-to-guides/logging-workflow-log/workflow-logging-config.jpg)</span>
+<span class="image">![configure workflow log](/images/how-to-guides/logging-workflow-log/workflow-logging-config.jpg)</span>
 
 </div>
 
@@ -140,7 +140,7 @@ Tip
 
 <div class="paragraph">
 
-<span class="image">![workflow log selection](../assets/images/how-to-guides/logging-workflow-log/workflow-log-selection.png)</span>
+<span class="image">![workflow log selection](/images/how-to-guides/logging-workflow-log/workflow-log-selection.png)</span>
 
 </div>
 
@@ -168,7 +168,7 @@ A new pipeline is automatically created with a [Workflow Logging](pipeline/trans
 
 <div class="paragraph">
 
-<span class="image">![workflow logging pipeline](../assets/images/how-to-guides/logging-workflow-log/workflow-logging.jpg)</span>
+<span class="image">![workflow logging pipeline](/images/how-to-guides/logging-workflow-log/workflow-logging.jpg)</span>
 
 </div>
 
@@ -180,7 +180,7 @@ Now it’s time to configure the Workflow Logging transform. This configuration 
 
 <div class="paragraph">
 
-<span class="image">![configure workflow loggin](../assets/images/how-to-guides/logging-workflow-log/config-workflow-logging.jpg)</span>
+<span class="image">![configure workflow loggin](/images/how-to-guides/logging-workflow-log/config-workflow-logging.jpg)</span>
 
 </div>
 
@@ -235,7 +235,7 @@ Add a Table Output transform by clicking anywhere in the pipeline canvas, then S
 
 <div class="paragraph">
 
-<span class="image">![workflow logging table output](../assets/images/how-to-guides/logging-workflow-log/workflow-logging-pipeline.jpg)</span>
+<span class="image">![workflow logging table output](/images/how-to-guides/logging-workflow-log/workflow-logging-pipeline.jpg)</span>
 
 </div>
 
@@ -247,7 +247,7 @@ Now it’s time to configure the Table Output transform. Open the transform and 
 
 <div class="paragraph">
 
-<span class="image">![workflow logging table output](../assets/images/how-to-guides/logging-workflow-log/workflow-logging-table-output.png)</span>
+<span class="image">![workflow logging table output](/images/how-to-guides/logging-workflow-log/workflow-logging-table-output.png)</span>
 
 </div>
 
@@ -261,7 +261,7 @@ Now it’s time to configure the Table Output transform. Open the transform and 
 
 <div class="paragraph">
 
-<span class="image">![workflow log db connection](../assets/images/how-to-guides/logging-workflow-log/workflow-logging-connection.png)</span>
+<span class="image">![workflow log db connection](/images/how-to-guides/logging-workflow-log/workflow-logging-connection.png)</span>
 
 </div>
 
@@ -275,7 +275,7 @@ Now it’s time to configure the Table Output transform. Open the transform and 
 
 <div class="paragraph">
 
-<span class="image">![create logging table DDL statement](../assets/images/how-to-guides/logging-workflow-log/workflow-logging-sql.jpg)</span>
+<span class="image">![create logging table DDL statement](/images/how-to-guides/logging-workflow-log/workflow-logging-sql.jpg)</span>
 
 </div>
 
@@ -287,7 +287,7 @@ Now it’s time to configure the Table Output transform. Open the transform and 
 
 <div class="paragraph">
 
-<span class="image">![create table execution](../assets/images/how-to-guides/logging-workflow-log/workflow-logging-execute-sql.jpg)</span>
+<span class="image">![create table execution](/images/how-to-guides/logging-workflow-log/workflow-logging-execute-sql.jpg)</span>
 
 </div>
 
@@ -299,7 +299,7 @@ Now it’s time to configure the Table Output transform. Open the transform and 
 
 <div class="paragraph">
 
-<span class="image">![log table fields](../assets/images/how-to-guides/logging-workflow-log/workflow-logging-table.jpg)</span>
+<span class="image">![log table fields](/images/how-to-guides/logging-workflow-log/workflow-logging-table.jpg)</span>
 
 </div>
 
@@ -327,7 +327,7 @@ Finally, run a workflow by clicking on the Run → Launch option. The Workflow L
 
 <div class="paragraph">
 
-<span class="image">![run a workflow](../assets/images/how-to-guides/logging-workflow-log/run-workflow.png)</span>
+<span class="image">![run a workflow](/images/how-to-guides/logging-workflow-log/run-workflow.png)</span>
 
 </div>
 
@@ -339,7 +339,7 @@ The executed pipeline (generate-rows.hpl) generates a constant and writes the 10
 
 <div class="paragraph">
 
-<span class="image">![generate rows pipeline](../assets/images/how-to-guides/logging-workflow-log/pipeline-generate-rows.jpg)</span>
+<span class="image">![generate rows pipeline](/images/how-to-guides/logging-workflow-log/pipeline-generate-rows.jpg)</span>
 
 </div>
 
@@ -351,13 +351,13 @@ The data of the workflow execution will be recorded in the workflows-logging tab
 
 <div class="paragraph">
 
-<span class="image">![run workflow logging](../assets/images/how-to-guides/logging-workflow-log/run-workflow-logging.jpg)</span>
+<span class="image">![run workflow logging](/images/how-to-guides/logging-workflow-log/run-workflow-logging.jpg)</span>
 
 </div>
 
 <div class="paragraph">
 
-<span class="image">![workflow metrics](../assets/images/how-to-guides/logging-workflow-log/run-workflow-metrics.jpg)</span>
+<span class="image">![workflow metrics](/images/how-to-guides/logging-workflow-log/run-workflow-metrics.jpg)</span>
 
 </div>
 
@@ -369,7 +369,7 @@ Check the data in the table.
 
 <div class="paragraph">
 
-<span class="image">![workflow metrics in table](../assets/images/how-to-guides/logging-workflow-log/workflow-log-table.jpg)</span>
+<span class="image">![workflow metrics in table](/images/how-to-guides/logging-workflow-log/workflow-log-table.jpg)</span>
 
 </div>
 

@@ -30,7 +30,7 @@ Hover over any of the available options in the popup dialog to see a description
 
 <div class="paragraph">
 
-<span class="image">![Hop Gui Popup Dialog - Description](../assets/images/hop-gui/popup-description.png)</span>
+<span class="image">![Hop Gui Popup Dialog - Description](/images/hop-gui/popup-description.png)</span>
 
 </div>
 
@@ -54,19 +54,19 @@ The search bar at the top of the dialog enables Hop developers to
 
 <div class="paragraph">
 
-<span class="image">![Hop Gui Popup Dialog - Toolbar](../assets/images/hop-gui/popup-toolbar.png)</span>
+<span class="image">![Hop Gui Popup Dialog - Toolbar](/images/hop-gui/popup-toolbar.png)</span>
 
 </div>
 
 <div class="paragraph">
 
-<span class="image">![Hop Gui Popup Dialog - Collapsed](../assets/images/hop-gui/popup-collapsed.png)</span>
+<span class="image">![Hop Gui Popup Dialog - Collapsed](/images/hop-gui/popup-collapsed.png)</span>
 
 </div>
 
 <div class="paragraph">
 
-<span class="image">![Hop Gui Popup Dialog - No categories](../assets/images/hop-gui/popup-no-categories-no-fixed-width.png)</span>
+<span class="image">![Hop Gui Popup Dialog - No categories](/images/hop-gui/popup-no-categories-no-fixed-width.png)</span>
 
 </div>
 
@@ -98,7 +98,7 @@ When you create a new item, the dialog will show you a list of metadata items th
 <td><div class="title">
 Tip
 </div></td>
-<td>Create a new item either by clicking the <span class="image"><img src="../assets/images/icons/add.svg" alt="plus" /></span> in the upper left corner, through File → New or by hitting <code>CTRL-N</code></td>
+<td>Create a new item either by clicking the <span class="image"><img src="/images/icons/add.svg" alt="plus" /></span> in the upper left corner, through File → New or by hitting <code>CTRL-N</code></td>
 </tr>
 </tbody>
 </table>
@@ -161,7 +161,7 @@ Tip
 
 <div class="paragraph">
 
-<span class="image">![Hop Gui Popup Dialog - Create Items](../assets/images/hop-gui/popup-create-item.png)</span>
+<span class="image">![Hop Gui Popup Dialog - Create Items](/images/hop-gui/popup-create-item.png)</span>
 
 </div>
 
@@ -207,7 +207,7 @@ Check the [full list](workflow/actions.kvQjWcAVIb) of actions for detailed infor
 
 <div class="paragraph">
 
-<span class="image">![Hop Gui Popup Dialog - Workflow Options](../assets/images/hop-gui/popup-workflow.png)</span>
+<span class="image">![Hop Gui Popup Dialog - Workflow Options](/images/hop-gui/popup-workflow.png)</span>
 
 </div>
 
@@ -309,7 +309,7 @@ Tip
 
 <div class="paragraph">
 
-<span class="image">![Hop Gui Popup Dialog - Workflow Action Options](../assets/images/hop-gui/popup-action.png)</span>
+<span class="image">![Hop Gui Popup Dialog - Workflow Action Options](/images/hop-gui/popup-action.png)</span>
 
 </div>
 
@@ -343,7 +343,7 @@ The 'Basic' category contains a number of operations you can perform on the curr
 
 <div class="paragraph">
 
-<span class="image">![Hop Gui Popup Dialog - Pipeline Options](../assets/images/hop-gui/popup-pipeline.png)</span>
+<span class="image">![Hop Gui Popup Dialog - Pipeline Options](/images/hop-gui/popup-pipeline.png)</span>
 
 </div>
 
@@ -443,7 +443,7 @@ When clicking on a transform icon, the popup contains a number of actions to wor
 
 <div class="paragraph">
 
-<span class="image">![Hop Gui Popup Dialog - Workflow Transform Options](../assets/images/hop-gui/popup-transform.png)</span>
+<span class="image">![Hop Gui Popup Dialog - Workflow Transform Options](/images/hop-gui/popup-transform.png)</span>
 
 </div>
 
@@ -533,7 +533,7 @@ For pipelines, the dialog offers the following options:
 
 <div class="paragraph">
 
-<span class="image">![Hop Gui Popup Dialog - Pipeline Hop Options](../assets/images/hop-gui/popup-hop-pipeline.png)</span>
+<span class="image">![Hop Gui Popup Dialog - Pipeline Hop Options](/images/hop-gui/popup-hop-pipeline.png)</span>
 
 </div>
 
@@ -561,7 +561,7 @@ When working in a workflow, the hops popup dialog has all the options as the pip
 
 <div class="paragraph">
 
-<span class="image">![Hop Gui Popup Dialog - Workflow Hop Options](../assets/images/hop-gui/popup-hop-workflow.png)</span>
+<span class="image">![Hop Gui Popup Dialog - Workflow Hop Options](/images/hop-gui/popup-hop-workflow.png)</span>
 
 </div>
 

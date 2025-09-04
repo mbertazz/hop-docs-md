@@ -28,7 +28,7 @@ Let’s walk through the top toolbar:
 
 <div class="content">
 
-![Hop - Pipeline Toolbar](../assets/images/getting-started/getting-started-pipeline-toolbar.png)
+![Hop - Pipeline Toolbar](/images/getting-started/getting-started-pipeline-toolbar.png)
 
 </div>
 
@@ -36,25 +36,25 @@ Let’s walk through the top toolbar:
 
 | Action                  | Icon                                                                                                                      | Description                                                                                                |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| run                     | <span class="image">![Run](../assets/images/getting-started/icons/run.svg)</span>                                         | start the execution of the pipeline                                                                        |
-| pause                   | <span class="image">![Pause](../assets/images/getting-started/icons/pause.svg)</span>                                     | pause the execution of the pipeline                                                                        |
-| stop                    | <span class="image">![Stop](../assets/images/getting-started/icons/stop.svg)</span>                                       | stop the execution of the pipeline                                                                         |
+| run                     | <span class="image">![Run](/images/getting-started/icons/run.svg)</span>                                         | start the execution of the pipeline                                                                        |
+| pause                   | <span class="image">![Pause](/images/getting-started/icons/pause.svg)</span>                                     | pause the execution of the pipeline                                                                        |
+| stop                    | <span class="image">![Stop](/images/getting-started/icons/stop.svg)</span>                                       | stop the execution of the pipeline                                                                         |
 |                         |                                                                                                                           |                                                                                                            |
-| preview                 | <span class="image">![Preview](../assets/images/getting-started/icons/view.svg)</span>                                    | preview the pipeline                                                                                       |
-| debug                   | <span class="image">![Debug](../assets/images/getting-started/icons/debug.svg)</span>                                     | debug the pipeline                                                                                         |
-| print                   | <span class="image">![Print](../assets/images/getting-started/icons/print.png)</span>                                     | print the pipeline                                                                                         |
+| preview                 | <span class="image">![Preview](/images/getting-started/icons/view.svg)</span>                                    | preview the pipeline                                                                                       |
+| debug                   | <span class="image">![Debug](/images/getting-started/icons/debug.svg)</span>                                     | debug the pipeline                                                                                         |
+| print                   | <span class="image">![Print](/images/getting-started/icons/print.png)</span>                                     | print the pipeline                                                                                         |
 |                         |                                                                                                                           |                                                                                                            |
-| undo                    | <span class="image">![Undo](../assets/images/getting-started/icons/Antu_edit-undo.svg)</span>                             | undo an operation                                                                                          |
-| redo                    | <span class="image">![Redo](../assets/images/getting-started/icons/Antu_edit-redo.svg)</span>                             | redo an operation                                                                                          |
+| undo                    | <span class="image">![Undo](/images/getting-started/icons/Antu_edit-undo.svg)</span>                             | undo an operation                                                                                          |
+| redo                    | <span class="image">![Redo](/images/getting-started/icons/Antu_edit-redo.svg)</span>                             | redo an operation                                                                                          |
 |                         |                                                                                                                           |                                                                                                            |
-| align                   | <span class="image">![Snap To Grid](../assets/images/getting-started/icons/snap-to-grid.svg)</span>                       | align the specified (selected) transforms to the specified grid size                                       |
-| align left              | <span class="image">![Align Left](../assets/images/getting-started/icons/align-left.svg)</span>                           | align the selected transforms with left-most selected transform in the selection                           |
-| align right             | <span class="image">![Align Right](../assets/images/getting-started/icons/align-right.svg)</span>                         | align the selected transforms with right-most selected transform in the selection                          |
-| align top               | <span class="image">![Align Top](../assets/images/getting-started/icons/align-top.svg)</span>                             | align the selected transforms with top-most selected transform in the selection                            |
-| align bottom            | <span class="image">![Align Bottom](../assets/images/getting-started/icons/align-bottom.svg)</span>                       | align the selected transforms with bottom-most selected transform in the selection                         |
+| align                   | <span class="image">![Snap To Grid](/images/getting-started/icons/snap-to-grid.svg)</span>                       | align the specified (selected) transforms to the specified grid size                                       |
+| align left              | <span class="image">![Align Left](/images/getting-started/icons/align-left.svg)</span>                           | align the selected transforms with left-most selected transform in the selection                           |
+| align right             | <span class="image">![Align Right](/images/getting-started/icons/align-right.svg)</span>                         | align the selected transforms with right-most selected transform in the selection                          |
+| align top               | <span class="image">![Align Top](/images/getting-started/icons/align-top.svg)</span>                             | align the selected transforms with top-most selected transform in the selection                            |
+| align bottom            | <span class="image">![Align Bottom](/images/getting-started/icons/align-bottom.svg)</span>                       | align the selected transforms with bottom-most selected transform in the selection                         |
 |                         |                                                                                                                           |                                                                                                            |
-| distribute horizontally | <span class="image">![Distribute Horizontally](../assets/images/getting-started/icons/distribute-horizontally.svg)</span> | Distribute the selected transforms evenly between the left-most and right-most transform in your selection |
-| distribute vertically   | <span class="image">![Distribute Vertically](../assets/images/getting-started/icons/distribute-vertically.svg)</span>     | Distribute the selected transforms evenly between the top-most and bottom-most transform in your selection |
+| distribute horizontally | <span class="image">![Distribute Horizontally](/images/getting-started/icons/distribute-horizontally.svg)</span> | Distribute the selected transforms evenly between the left-most and right-most transform in your selection |
+| distribute vertically   | <span class="image">![Distribute Vertically](/images/getting-started/icons/distribute-vertically.svg)</span>     | Distribute the selected transforms evenly between the top-most and bottom-most transform in your selection |
 
 </div>
 

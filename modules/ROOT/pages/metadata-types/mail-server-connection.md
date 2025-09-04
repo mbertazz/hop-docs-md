@@ -12,7 +12,7 @@
 
 <div class="paragraph">
 
-<span class="image">![Mail Server Connection](../assets/images/icons/mail.svg)</span>
+<span class="image">![Mail Server Connection](/images/icons/mail.svg)</span>
 
 </div>
 

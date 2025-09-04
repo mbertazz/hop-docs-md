@@ -50,14 +50,14 @@ There are two ways to create a pipeline.
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui create pipeline 1](../assets/images/getting-started/gs-hop-gui-create-pipeline-1.png)</span>
+<span class="image">![gs hop gui create pipeline 1](/images/getting-started/gs-hop-gui-create-pipeline-1.png)</span>
 
 </div>
 
 <div class="ulist">
 
-  - File → New → Pipeline ￼ <span class="image">![gs hop gui create pipeline 2](../assets/images/getting-started/gs-hop-gui-create-pipeline-2.png)</span>  
-    <span class="image">![gs hop gui create pipeline 3](../assets/images/getting-started/gs-hop-gui-create-pipeline-3.png)</span>
+  - File → New → Pipeline ￼ <span class="image">![gs hop gui create pipeline 2](/images/getting-started/gs-hop-gui-create-pipeline-2.png)</span>  
+    <span class="image">![gs hop gui create pipeline 3](/images/getting-started/gs-hop-gui-create-pipeline-3.png)</span>
 
 </div>
 
@@ -69,7 +69,7 @@ Your new pipeline is created. You’ll see the dialog below.
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui create pipeline 4](../assets/images/getting-started/gs-hop-gui-create-pipeline-4.png)</span>
+<span class="image">![gs hop gui create pipeline 4](/images/getting-started/gs-hop-gui-create-pipeline-4.png)</span>
 
 </div>
 
@@ -95,7 +95,7 @@ Now you are ready to add the first transform. Click anywhere in the pipeline can
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui create pipeline 5](../assets/images/getting-started/gs-hop-gui-create-pipeline-5.png)</span>
+<span class="image">![gs hop gui create pipeline 5](/images/getting-started/gs-hop-gui-create-pipeline-5.png)</span>
 
 </div>
 
@@ -107,7 +107,7 @@ After clicking you will see the context dialog. This is the dialog you’ll use 
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui create pipeline 6](../assets/images/getting-started/gs-hop-gui-create-pipeline-6.png)</span>
+<span class="image">![gs hop gui create pipeline 6](/images/getting-started/gs-hop-gui-create-pipeline-6.png)</span>
 
 </div>
 
@@ -125,7 +125,7 @@ For now, add a [Generate Rows](pipeline/transforms/rowgenerator.pOm9rCXtsJ) and 
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui create pipeline add two transforms](../assets/images/getting-started/gs-hop-gui-create-pipeline-add-two-transforms.png)</span>
+<span class="image">![gs hop gui create pipeline add two transforms](/images/getting-started/gs-hop-gui-create-pipeline-add-two-transforms.png)</span>
 
 </div>
 
@@ -166,13 +166,13 @@ There are a number of ways to create a hop:
 
   - **scroll-drag**: scroll-click on a transform , while holding down your mouse’s scroll button, drag to the second transform. Release the scroll button.
 
-  - click on a transform in your pipeline to open the context dialog (the dialog you opened in the '**click anywhere**' step). Click the 'Create hop' <span class="image">![Create hop](../assets/images/getting-started/icons/HOP.svg)</span> button and select the transform you want to create the hop to.
+  - click on a transform in your pipeline to open the context dialog (the dialog you opened in the '**click anywhere**' step). Click the 'Create hop' <span class="image">![Create hop](/images/getting-started/icons/HOP.svg)</span> button and select the transform you want to create the hop to.
 
 </div>
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui create pipeline create hop](../assets/images/getting-started/gs-hop-gui-create-pipeline-create-hop.png)</span>
+<span class="image">![gs hop gui create pipeline create hop](/images/getting-started/gs-hop-gui-create-pipeline-create-hop.png)</span>
 
 </div>
 
@@ -202,7 +202,7 @@ Running a pipeline to see how it performs can be done in one of the following ta
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui run pipeline 1](../assets/images/getting-started/gs-hop-gui-run-pipeline-1.png)</span>
+<span class="image">![gs hop gui run pipeline 1](/images/getting-started/gs-hop-gui-run-pipeline-1.png)</span>
 
 </div>
 
@@ -214,7 +214,7 @@ Running a pipeline to see how it performs can be done in one of the following ta
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui run pipeline 2](../assets/images/getting-started/gs-hop-gui-run-pipeline-2.png)</span>
+<span class="image">![gs hop gui run pipeline 2](/images/getting-started/gs-hop-gui-run-pipeline-2.png)</span>
 
 </div>
 
@@ -232,13 +232,13 @@ You will see the Run Options dialog.
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui run pipeline 3](../assets/images/getting-started/gs-hop-gui-run-pipeline-3.png)</span>  
+<span class="image">![gs hop gui run pipeline 3](/images/getting-started/gs-hop-gui-run-pipeline-3.png)</span>  
 
 </div>
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui run pipeline 4](../assets/images/getting-started/gs-hop-gui-run-pipeline-4.png)</span>
+<span class="image">![gs hop gui run pipeline 4](/images/getting-started/gs-hop-gui-run-pipeline-4.png)</span>
 
 </div>
 
@@ -275,7 +275,7 @@ You’ll see green check marks in the upper right corner of the transforms when 
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui run pipeline 5](../assets/images/getting-started/gs-hop-gui-run-pipeline-5.png)</span>
+<span class="image">![gs hop gui run pipeline 5](/images/getting-started/gs-hop-gui-run-pipeline-5.png)</span>
 
 </div>
 
@@ -301,7 +301,7 @@ The Transform Metrics tab displays metrics per transform.
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui run pipeline 6](../assets/images/getting-started/gs-hop-gui-run-pipeline-6.png)</span>
+<span class="image">![gs hop gui run pipeline 6](/images/getting-started/gs-hop-gui-run-pipeline-6.png)</span>
 
 </div>
 
@@ -313,7 +313,7 @@ The logging tab displays the log of the pipeline according to the log level chos
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui run pipeline 7](../assets/images/getting-started/gs-hop-gui-run-pipeline-7.png)</span>
+<span class="image">![gs hop gui run pipeline 7](/images/getting-started/gs-hop-gui-run-pipeline-7.png)</span>
 
 </div>
 

@@ -40,7 +40,7 @@ A simple workflow is displayed below. This workflow will check if a folder is em
 
 <div class="content">
 
-![Hop-Simple Workflow](../assets/images/hop-gui/workflow/simple-workflow.png)
+![Hop-Simple Workflow](/images/hop-gui/workflow/simple-workflow.png)
 
 </div>
 
@@ -96,7 +96,7 @@ To create a workflow, hit the 'new' icon or 'CTRL-N'. From the pop-up dialog, se
 
 <div class="content">
 
-![Hop - New Workflow](../assets/images/getting-started/getting-started-new-workflow.png)
+![Hop - New Workflow](/images/getting-started/getting-started-new-workflow.png)
 
 </div>
 
@@ -138,7 +138,7 @@ Add the following actions to your workflow and create the hops to connect them:
 
 <div class="content">
 
-![Hop - New Workflow with actions](../assets/images/getting-started/getting-started-new-workflow-actions.png)
+![Hop - New Workflow with actions](/images/getting-started/getting-started-new-workflow-actions.png)
 
 </div>
 
@@ -166,7 +166,7 @@ Click 'OK'.
 
 <div class="content">
 
-![Hop - New Workflow pipeline action](../assets/images/getting-started/getting-started-new-workflow-pipeline-action.png)
+![Hop - New Workflow pipeline action](/images/getting-started/getting-started-new-workflow-pipeline-action.png)
 
 </div>
 
@@ -182,7 +182,7 @@ The action items can be configured through a single click on the object. The men
 
 <div class="content">
 
-![Workflow Action](../assets/images/hop-gui/workflow/workflow-action.png)
+![Workflow Action](/images/hop-gui/workflow/workflow-action.png)
 
 </div>
 
@@ -216,7 +216,7 @@ Add a fourth action 'Abort' and create a hop from your pipeline action.
 
 <div class="content">
 
-![Hop - New Workflow abort](../assets/images/getting-started/getting-started-new-workflow-abort.png)
+![Hop - New Workflow abort](/images/getting-started/getting-started-new-workflow-abort.png)
 
 </div>
 
@@ -295,7 +295,7 @@ Following properties can be configured:
 
 <div class="content">
 
-![Workflow properties](../assets/images/hop-gui/workflow/workflow-properties.png)
+![Workflow properties](/images/hop-gui/workflow/workflow-properties.png)
 
 </div>
 
@@ -331,7 +331,7 @@ The parameters tab allows you to specify parameters specific for the workflow. P
 
 <div class="content">
 
-![Parameters properties](../assets/images/hop-gui/workflow/parameters-properties.png)
+![Parameters properties](/images/hop-gui/workflow/parameters-properties.png)
 
 </div>
 
@@ -347,7 +347,7 @@ The settings tab allows you to pass the batch ID.
 
 <div class="content">
 
-![Settings properties](../assets/images/hop-gui/workflow/settings-properties.png)
+![Settings properties](/images/hop-gui/workflow/settings-properties.png)
 
 </div>
 

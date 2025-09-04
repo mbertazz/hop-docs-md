@@ -34,7 +34,7 @@ In the image below, a very simple pipeline reads data from a database, adds a me
 
 <div class="content">
 
-![Hop - Simple Pipeline](../assets/images/hop-gui/pipeline/simple-pipeline.png)
+![Hop - Simple Pipeline](/images/hop-gui/pipeline/simple-pipeline.png)
 
 </div>
 
@@ -84,7 +84,7 @@ Create a new pipeline through the work item dialog. You’ll be presented with t
 
 <div class="content">
 
-![Hop - New Pipeline](../assets/images/hop-gui/pipeline/new-pipeline.png)
+![Hop - New Pipeline](/images/hop-gui/pipeline/new-pipeline.png)
 
 </div>
 
@@ -116,7 +116,7 @@ Click anywhere in the pipeline canvas, the area where you’ll see the image bel
 
 <div class="content">
 
-![Hop - Click Anywhere](../assets/images/getting-started/getting-started-click-anywhere.png)
+![Hop - Click Anywhere](/images/getting-started/getting-started-click-anywhere.png)
 
 </div>
 
@@ -138,7 +138,7 @@ Check the [list](pipeline/transforms.22Uv0E0Vzs) of transforms to add to your pi
 
 <div class="content">
 
-![Hop - Add Transform](../assets/images/getting-started/getting-started-add-transform.png)
+![Hop - Add Transform](/images/getting-started/getting-started-add-transform.png)
 
 </div>
 
@@ -154,7 +154,7 @@ Add a 'Generate Rows' and a 'Add Sequence' transform, and your pipeline should l
 
 <div class="content">
 
-![Hop - Add two transforms](../assets/images/getting-started/getting-started-add-two-transforms.png)
+![Hop - Add two transforms](/images/getting-started/getting-started-add-two-transforms.png)
 
 </div>
 
@@ -170,7 +170,7 @@ The transform object can be configured through a single click on the object. The
 
 <div class="content">
 
-![Hop - transforms](../assets/images/hop-gui/pipeline/transforms.png)
+![Hop - transforms](/images/hop-gui/pipeline/transforms.png)
 
 </div>
 
@@ -237,7 +237,7 @@ There are a number of ways to create a hop:
 
 <div class="content">
 
-![Hop - Create Hop](../assets/images/getting-started/getting-started-create-hop.png)
+![Hop - Create Hop](/images/getting-started/getting-started-create-hop.png)
 
 </div>
 
@@ -297,7 +297,7 @@ Following properties can be configured:
 
 <div class="content">
 
-![Pipeline properties](../assets/images/hop-gui/pipeline/properties-pipeline.png)
+![Pipeline properties](/images/hop-gui/pipeline/properties-pipeline.png)
 
 </div>
 
@@ -333,7 +333,7 @@ The parameters tab allows you to specify parameters specific for the pipeline. P
 
 <div class="content">
 
-![Parameters properties](../assets/images/hop-gui/pipeline/parameters-pipeline.png)
+![Parameters properties](/images/hop-gui/pipeline/parameters-pipeline.png)
 
 </div>
 
@@ -349,7 +349,7 @@ The monitoring tab allows you to specify the monitoring of the pipeline.
 
 <div class="content">
 
-![Monitoring properties](../assets/images/hop-gui/pipeline/monitoring-pipeline.png)
+![Monitoring properties](/images/hop-gui/pipeline/monitoring-pipeline.png)
 
 </div>
 

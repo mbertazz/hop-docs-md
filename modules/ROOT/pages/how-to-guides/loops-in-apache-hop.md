@@ -62,7 +62,7 @@ This is what that looks like in a very basic example:
 
 <div class="paragraph">
 
-<span class="image">![Copy rows to result](../assets/images/how-to-guides/loops-in-apache-hop/loops-copy-rows-to-result.png)</span>
+<span class="image">![Copy rows to result](/images/how-to-guides/loops-in-apache-hop/loops-copy-rows-to-result.png)</span>
 
 </div>
 
@@ -80,7 +80,7 @@ Process each of the values in the loop individually. This example receives the l
 
 <div class="paragraph">
 
-<span class="image">![Copy rows to result - process one row](../assets/images/how-to-guides/loops-in-apache-hop/loops-copy-rows-to-result-process-one-row.png)</span>
+<span class="image">![Copy rows to result - process one row](/images/how-to-guides/loops-in-apache-hop/loops-copy-rows-to-result-process-one-row.png)</span>
 
 </div>
 
@@ -92,7 +92,7 @@ Both pipelines are executed from a workflow.
 
 <div class="paragraph">
 
-<span class="image">![Copy rows to result - workflow](../assets/images/how-to-guides/loops-in-apache-hop/loops-copy-rows-to-result-workflow.png)</span>
+<span class="image">![Copy rows to result - workflow](/images/how-to-guides/loops-in-apache-hop/loops-copy-rows-to-result-workflow.png)</span>
 
 </div>
 
@@ -104,7 +104,7 @@ The second pipeline action in this workflow runs the pipeline where we process t
 
 <div class="paragraph">
 
-<span class="image">![Cpy rows to result - parameters](../assets/images/how-to-guides/loops-in-apache-hop/loops-copy-rows-to-result-parameters.png)</span>
+<span class="image">![Cpy rows to result - parameters](/images/how-to-guides/loops-in-apache-hop/loops-copy-rows-to-result-parameters.png)</span>
 
 </div>
 
@@ -214,13 +214,13 @@ There are 5 possibilities to create hops from the pipeline executor transform to
 
 <div class="paragraph">
 
-<span class="image">![Pipeline Executor - configuration](../assets/images/how-to-guides/loops-in-apache-hop/loops-pipeline-executor-configuration.png)</span>
+<span class="image">![Pipeline Executor - configuration](/images/how-to-guides/loops-in-apache-hop/loops-pipeline-executor-configuration.png)</span>
 
 </div>
 
 <div class="paragraph">
 
-<span class="image">![Pipeline Executor - results](../assets/images/how-to-guides/loops-in-apache-hop/loops-pipeline-executor.png)</span>
+<span class="image">![Pipeline Executor - results](/images/how-to-guides/loops-in-apache-hop/loops-pipeline-executor.png)</span>
 
 </div>
 
@@ -345,13 +345,13 @@ There are 4 possibilities to create hops from the workflow executor transform to
 
 <div class="paragraph">
 
-<span class="image">![Workflow Executor - configuration](../assets/images/how-to-guides/loops-in-apache-hop/loops-workflow-executor-configuration.png)</span>
+<span class="image">![Workflow Executor - configuration](/images/how-to-guides/loops-in-apache-hop/loops-workflow-executor-configuration.png)</span>
 
 </div>
 
 <div class="paragraph">
 
-<span class="image">![Workflow Executor - output](../assets/images/how-to-guides/loops-in-apache-hop/loops-workflow-executor.png)</span>
+<span class="image">![Workflow Executor - output](/images/how-to-guides/loops-in-apache-hop/loops-workflow-executor.png)</span>
 
 </div>
 
@@ -464,13 +464,13 @@ The example below runs a pipeline that increments a `$${COUNTER$}` variable with
 
 <div class="paragraph">
 
-<span class="image">![Repeat Action](../assets/images/how-to-guides/loops-in-apache-hop/loops-repeat-action.png)</span>
+<span class="image">![Repeat Action](/images/how-to-guides/loops-in-apache-hop/loops-repeat-action.png)</span>
 
 </div>
 
 <div class="paragraph">
 
-<span class="image">![Repeat Action - repeat pipeline](../assets/images/how-to-guides/loops-in-apache-hop/loops-repeat-pipeline.png)</span>
+<span class="image">![Repeat Action - repeat pipeline](/images/how-to-guides/loops-in-apache-hop/loops-repeat-pipeline.png)</span>
 
 </div>
 

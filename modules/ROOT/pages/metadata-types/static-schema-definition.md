@@ -14,7 +14,7 @@
 
 <div class="paragraph">
 
-<span class="image">![folder](../assets/images/icons/folder.svg)</span>
+<span class="image">![folder](/images/icons/folder.svg)</span>
 
 </div>
 

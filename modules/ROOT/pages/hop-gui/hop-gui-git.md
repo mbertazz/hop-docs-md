@@ -36,7 +36,7 @@ If you open the file explorer for a project that is not version controlled in gi
 
 <div class="content">
 
-![No git available](../assets/images/hop-gui/hop-gui-no-git.png)
+![No git available](/images/hop-gui/hop-gui-no-git.png)
 
 </div>
 
@@ -52,7 +52,7 @@ If git was found (ie the project has a `.git` folder in the project root), these
 
 <div class="content">
 
-![Git toolbar](../assets/images/hop-gui/hop-gui-git-toolbar.png)
+![Git toolbar](/images/hop-gui/hop-gui-git-toolbar.png)
 
 </div>
 
@@ -66,20 +66,20 @@ The available options to work with files and the available git operations in thi
 
 | icon                                                                                | action                   | description                                                                                                                             | shortcut     |
 | ----------------------------------------------------------------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| <span class="image">![arrow right](../assets/images/icons/arrow-right.svg)</span>   | Open selected file       | Opens the selected file in the appropriate editor (pipeline or workflow editor for workflows and pipelines, text editor for other file. | double-click |
-| <span class="image">![folder add](../assets/images/icons/folder-add.svg)</span>     | Add folder               | adds a new folder at the selected location. A popup is shown for the folder name.                                                       |              |
-| <span class="image">![expand all](../assets/images/icons/expand-all.svg)</span>     | Expand all folders       | Display all nested folders in the directory tree.                                                                                       |              |
-| <span class="image">![collapse all](../assets/images/icons/collapse-all.svg)</span> | Collapse all folders     | Hide all nested folders in the directory tree.                                                                                          |              |
-| <span class="image">![delete](../assets/images/icons/delete.svg)</span>             | Delete Selected File     | Deletes the selected file.                                                                                                              | DEL          |
-| <span class="image">![rename](../assets/images/icons/rename.svg)</span>             | Rename the selected file | Makes the selected file name editable to allow renaming.                                                                                | F2           |
-| <span class="image">![refresh](../assets/images/icons/refresh.svg)</span>           | Refresh                  | Refreshes the projects folder and file structure.                                                                                       |              |
-| <span class="image">![hide](../assets/images/icons/hide.svg)</span>                 | Show or hide files       | Show or hide files or directories.                                                                                                      |              |
-| <span class="image">![git info](../assets/images/icons/git-info.svg)</span>         | Git info                 | Populates the file explorer’s git dialog with version information for the selected file.                                                |              |
-| <span class="image">![git add](../assets/images/icons/git-add.svg)</span>           | Git Add                  | Add the selected file to version control.                                                                                               |              |
-| <span class="image">![git revert](../assets/images/icons/git-revert.svg)</span>     | Git Revert               | Revert file to last committed version (HEAD).                                                                                           |              |
-| <span class="image">![git commit](../assets/images/icons/git-commit.svg)</span>     | Git commit               | Commit the latest changes for the selected file (providing a commit message).                                                           |              |
-| <span class="image">![push](../assets/images/icons/push.svg)</span>                 | Git push                 | Push the recent changes to the remote repository.                                                                                       |              |
-| <span class="image">![pull](../assets/images/icons/pull.svg)</span>                 | Git pull                 | Pull the latest changes from the remote repository.                                                                                     |              |
+| <span class="image">![arrow right](/images/icons/arrow-right.svg)</span>   | Open selected file       | Opens the selected file in the appropriate editor (pipeline or workflow editor for workflows and pipelines, text editor for other file. | double-click |
+| <span class="image">![folder add](/images/icons/folder-add.svg)</span>     | Add folder               | adds a new folder at the selected location. A popup is shown for the folder name.                                                       |              |
+| <span class="image">![expand all](/images/icons/expand-all.svg)</span>     | Expand all folders       | Display all nested folders in the directory tree.                                                                                       |              |
+| <span class="image">![collapse all](/images/icons/collapse-all.svg)</span> | Collapse all folders     | Hide all nested folders in the directory tree.                                                                                          |              |
+| <span class="image">![delete](/images/icons/delete.svg)</span>             | Delete Selected File     | Deletes the selected file.                                                                                                              | DEL          |
+| <span class="image">![rename](/images/icons/rename.svg)</span>             | Rename the selected file | Makes the selected file name editable to allow renaming.                                                                                | F2           |
+| <span class="image">![refresh](/images/icons/refresh.svg)</span>           | Refresh                  | Refreshes the projects folder and file structure.                                                                                       |              |
+| <span class="image">![hide](/images/icons/hide.svg)</span>                 | Show or hide files       | Show or hide files or directories.                                                                                                      |              |
+| <span class="image">![git info](/images/icons/git-info.svg)</span>         | Git info                 | Populates the file explorer’s git dialog with version information for the selected file.                                                |              |
+| <span class="image">![git add](/images/icons/git-add.svg)</span>           | Git Add                  | Add the selected file to version control.                                                                                               |              |
+| <span class="image">![git revert](/images/icons/git-revert.svg)</span>     | Git Revert               | Revert file to last committed version (HEAD).                                                                                           |              |
+| <span class="image">![git commit](/images/icons/git-commit.svg)</span>     | Git commit               | Commit the latest changes for the selected file (providing a commit message).                                                           |              |
+| <span class="image">![push](/images/icons/push.svg)</span>                 | Git push                 | Push the recent changes to the remote repository.                                                                                       |              |
+| <span class="image">![pull](/images/icons/pull.svg)</span>                 | Git pull                 | Pull the latest changes from the remote repository.                                                                                     |              |
 
 <div class="admonitionblock note">
 
@@ -155,7 +155,7 @@ In the folder and file structure tree below the toolbar, files use a color codin
 
 <div class="content">
 
-![Git visual diff](../assets/images/hop-gui/git-visual-diff.png)
+![Git visual diff](/images/hop-gui/git-visual-diff.png)
 
 </div>
 

@@ -14,7 +14,7 @@
 
 <div class="paragraph">
 
-<span class="image">![pipeline run config](../assets/images/icons/pipeline_run_config.svg)</span>
+<span class="image">![pipeline run config](/images/icons/pipeline_run_config.svg)</span>
 
 </div>
 

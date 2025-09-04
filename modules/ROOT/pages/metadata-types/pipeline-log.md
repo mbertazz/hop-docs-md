@@ -14,7 +14,7 @@
 
 <div class="paragraph">
 
-<span class="image">![pipeline log](../assets/images/icons/pipeline-log.svg)</span>
+<span class="image">![pipeline log](/images/icons/pipeline-log.svg)</span>
 
 </div>
 
@@ -60,7 +60,7 @@ Check the metadata perspective for the pipeline log `pipeline-log-example`. This
 
 <div class="paragraph">
 
-<span class="image">![Pipeline Log](../assets/images/metadata-types/pipeline-log.png)</span>
+<span class="image">![Pipeline Log](/images/metadata-types/pipeline-log.png)</span>
 
 </div>
 

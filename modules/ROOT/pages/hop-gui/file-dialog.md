@@ -51,7 +51,7 @@ Tip
 
 <div class="paragraph">
 
-<span class="image">![file dialog](../assets/images/hop-gui/file-dialog.png)</span>
+<span class="image">![file dialog](/images/hop-gui/file-dialog.png)</span>
 
 </div>
 
@@ -61,17 +61,17 @@ Tip
     
     <div class="olist loweralpha">
     
-    1.  <span class="image">![home](../assets/images/icons/home.svg)</span> Navigate to the user home folder
+    1.  <span class="image">![home](/images/icons/home.svg)</span> Navigate to the user home folder
     
-    2.  <span class="image">![project](../assets/images/icons/project.svg)</span>Navigate to the project home folder
+    2.  <span class="image">![project](/images/icons/project.svg)</span>Navigate to the project home folder
     
-    3.  <span class="image">![navigate up](../assets/images/icons/navigate-up.svg)</span>Navigate to the parent folder
+    3.  <span class="image">![navigate up](/images/icons/navigate-up.svg)</span>Navigate to the parent folder
     
-    4.  <span class="image">![navigate back](../assets/images/icons/navigate-back.svg)</span>Navigate to the previous path from your history
+    4.  <span class="image">![navigate back](/images/icons/navigate-back.svg)</span>Navigate to the previous path from your history
     
-    5.  <span class="image">![navigate forward](../assets/images/icons/navigate-forward.svg)</span>Navigate to the next path from your history
+    5.  <span class="image">![navigate forward](/images/icons/navigate-forward.svg)</span>Navigate to the next path from your history
     
-    6.  <span class="image">![refresh](../assets/images/icons/refresh.svg)</span>Refresh
+    6.  <span class="image">![refresh](/images/icons/refresh.svg)</span>Refresh
     
     </div>
 
@@ -107,9 +107,9 @@ Tip
     
     <div class="olist loweralpha">
     
-    1.  <span class="image">![bookmark add](../assets/images/icons/bookmark-add.svg)</span>Add the selected file or folder as a bookmark
+    1.  <span class="image">![bookmark add](/images/icons/bookmark-add.svg)</span>Add the selected file or folder as a bookmark
     
-    2.  <span class="image">![delete](../assets/images/icons/delete.svg)</span>Remove the selected bookmark
+    2.  <span class="image">![delete](/images/icons/delete.svg)</span>Remove the selected bookmark
     
     </div>
 
@@ -117,9 +117,9 @@ Tip
     
     <div class="olist loweralpha">
     
-    1.  <span class="image">![folder add](../assets/images/icons/folder-add.svg)</span>Create folder
+    1.  <span class="image">![folder add](/images/icons/folder-add.svg)</span>Create folder
     
-    2.  <span class="image">![preview](../assets/images/icons/preview.svg)</span>Show or hide hidden files and directories
+    2.  <span class="image">![preview](/images/icons/preview.svg)</span>Show or hide hidden files and directories
     
     </div>
 

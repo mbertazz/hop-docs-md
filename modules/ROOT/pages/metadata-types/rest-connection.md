@@ -12,7 +12,7 @@
 
 <div class="paragraph">
 
-<span class="image">![rest](../assets/images/icons/rest.svg)</span>
+<span class="image">![rest](/images/icons/rest.svg)</span>
 
 </div>
 

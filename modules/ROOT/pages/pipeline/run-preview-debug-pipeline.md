@@ -20,7 +20,7 @@ Running a pipeline to see how it performs can be done by completing one of the f
 
 <div class="ulist">
 
-  - Using the Run <span class="image">![Run](../assets/images/getting-started/icons/run.svg)</span> icon
+  - Using the Run <span class="image">![Run](/images/getting-started/icons/run.svg)</span> icon
 
   - Select Run and Start execution from the top menu
 
@@ -38,7 +38,7 @@ In the pipeline run dialog, hit the 'New' button in the upper right corner to cr
 
 <div class="content">
 
-![Hop Configuration Selection](../assets/images/run-configuration/configuration-selection.png)
+![Hop Configuration Selection](/images/run-configuration/configuration-selection.png)
 
 </div>
 
@@ -54,7 +54,7 @@ In the dialog that pops up, add 'Local Pipeline' as the pipeline configuration n
 
 <div class="content">
 
-![Run configuration pipeline](../assets/images/hop-gui/pipeline/run-configuration-pipeline.png)
+![Run configuration pipeline](/images/hop-gui/pipeline/run-configuration-pipeline.png)
 
 </div>
 
@@ -98,7 +98,7 @@ When a pipeline has run succesfully green check marks are displayed in the right
 
 <div class="content">
 
-![Executed pipeline](../assets/images/hop-gui/pipeline/executed-pipeline.png)
+![Executed pipeline](/images/hop-gui/pipeline/executed-pipeline.png)
 
 </div>
 
@@ -114,7 +114,7 @@ The transforms also show a little table icon, giving you access to a preview of 
 
 <div class="content">
 
-![Preview pipeline](../assets/images/hop-gui/pipeline/preview-pipeline.png)
+![Preview pipeline](/images/hop-gui/pipeline/preview-pipeline.png)
 
 </div>
 
@@ -130,7 +130,7 @@ When a pipeline fails, a red triangle is shown in the upper right corner of the 
 
 <div class="content">
 
-![Failed pipeline](../assets/images/hop-gui/pipeline/failed-pipeline.png)
+![Failed pipeline](/images/hop-gui/pipeline/failed-pipeline.png)
 
 </div>
 
@@ -160,7 +160,7 @@ The Transform Metrics tab displays metrics per transform.
 
 <div class="content">
 
-![Transform Metrics pipeline](../assets/images/hop-gui/pipeline/transform-metrics-pipeline.png)
+![Transform Metrics pipeline](/images/hop-gui/pipeline/transform-metrics-pipeline.png)
 
 </div>
 
@@ -188,7 +188,7 @@ The logging tab displays the log of the pipeline according to the log level choo
 
 <div class="content">
 
-![Logging pipeline](../assets/images/hop-gui/pipeline/logging-pipeline.png)
+![Logging pipeline](/images/hop-gui/pipeline/logging-pipeline.png)
 
 </div>
 
@@ -212,7 +212,7 @@ Preview the result off a pipeline to see how it performs can be done by completi
 
 <div class="ulist">
 
-  - Using the preview <span class="image">![Run](../assets/images/getting-started/icons/view.svg)</span> icon
+  - Using the preview <span class="image">![Run](/images/getting-started/icons/view.svg)</span> icon
 
   - Select Run and Preview from the top menu
 
@@ -226,7 +226,7 @@ Preview the result off a pipeline to see how it performs can be done by completi
 
 <div class="content">
 
-![Preview Menu pipeline](../assets/images/hop-gui/pipeline/preview-menu-pipeline.png)
+![Preview Menu pipeline](/images/hop-gui/pipeline/preview-menu-pipeline.png)
 
 </div>
 
@@ -242,7 +242,7 @@ In the pipeline preview dialog the transform from which the result must be previ
 
 <div class="content">
 
-![Preview pipeline](../assets/images/hop-gui/pipeline/preview-pipeline.png)
+![Preview pipeline](/images/hop-gui/pipeline/preview-pipeline.png)
 
 </div>
 
@@ -266,7 +266,7 @@ Debugging a pipeline to eliminate errors can be done by completing one of the fo
 
 <div class="ulist">
 
-  - Using the debug <span class="image">![Run](../assets/images/getting-started/icons/debug.svg)</span> icon
+  - Using the debug <span class="image">![Run](/images/getting-started/icons/debug.svg)</span> icon
 
   - Select Run and Debug from the top menu
 
@@ -284,7 +284,7 @@ The same dialog is displayed as when using the preview functionality, only the e
 
 <div class="content">
 
-![Debug pipeline](../assets/images/hop-gui/pipeline/debug-pipeline.png)
+![Debug pipeline](/images/hop-gui/pipeline/debug-pipeline.png)
 
 </div>
 

@@ -1,6 +1,6 @@
 <div id="header">
 
-# <span class="image">![Apache Airflow](../assets/images/how-to-guides/run-hop-in-apache-airflow/airflow-logo.svg)</span>Run workflows and pipelines in Apache Airflow
+# <span class="image">![Apache Airflow](/images/how-to-guides/run-hop-in-apache-airflow/airflow-logo.svg)</span>Run workflows and pipelines in Apache Airflow
 
 </div>
 
@@ -144,7 +144,7 @@ After you logged on, Apache Airflow will show you an empty list of DAGs. We’re
 
 <div class="paragraph">
 
-<span class="image">![Apache Airflow - Empty server](../assets/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-empty-server.png)</span>
+<span class="image">![Apache Airflow - Empty server](/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-empty-server.png)</span>
 
 </div>
 
@@ -401,7 +401,7 @@ Note
 
 <div class="paragraph">
 
-<span class="image">![Apache Airflow - DAG error](../assets/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-dag-error.png)</span>
+<span class="image">![Apache Airflow - DAG error](/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-dag-error.png)</span>
 
 </div>
 
@@ -413,7 +413,7 @@ If your DAG is deployed correctly (it should), you’ll see it show up in the li
 
 <div class="paragraph">
 
-<span class="image">![Apache Airflow - DAG available](../assets/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-dag-available.png)</span>
+<span class="image">![Apache Airflow - DAG available](/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-dag-available.png)</span>
 
 </div>
 
@@ -425,7 +425,7 @@ Click on the **sample-pipeline** DAG to see more details about it. From the tab 
 
 <div class="paragraph">
 
-<span class="image">![Apache Airflow - DAG graph](../assets/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-dag-graph.png)</span>
+<span class="image">![Apache Airflow - DAG graph](/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-dag-graph.png)</span>
 
 </div>
 
@@ -437,7 +437,7 @@ To run this DAG, click the play icon with the **Trigger DAG** option. The icon i
 
 <div class="paragraph">
 
-<span class="image">![Apache Airflow - trigger DAG](../assets/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-dag-run.png)</span>
+<span class="image">![Apache Airflow - trigger DAG](/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-dag-run.png)</span>
 
 </div>
 
@@ -449,7 +449,7 @@ Your DAG will run in the background. To follow up and check the logs, click on y
 
 <div class="paragraph">
 
-<span class="image">![Apache Airflow - DAG logs](../assets/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-dag-logs.png)</span>
+<span class="image">![Apache Airflow - DAG logs](/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-dag-logs.png)</span>
 
 </div>
 
@@ -478,7 +478,7 @@ When you return to the Airflow home screen, your DAG will now show green circles
 
 <div class="paragraph">
 
-<span class="image">![Apache Airflow - DAG logs](../assets/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-dag-runs.png)</span>
+<span class="image">![Apache Airflow - DAG logs](/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-dag-runs.png)</span>
 
 </div>
 
@@ -536,7 +536,7 @@ This pipeline is again very basic. All we’ll do is accept a parameter and prin
 
 <div class="paragraph">
 
-<span class="image">![Apache Airflow - run a pipeline with parameters](../assets/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-pipeline-with-parameter.png)</span>
+<span class="image">![Apache Airflow - run a pipeline with parameters](/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-pipeline-with-parameter.png)</span>
 
 </div>
 
@@ -632,13 +632,13 @@ To run this DAG with parameters, we’ll use the **Trigger DAG w/ config** optio
 
 <div class="paragraph">
 
-<span class="image">![Apache Airflow - two DAGs](../assets/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-two-dags.png)</span>
+<span class="image">![Apache Airflow - two DAGs](/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-two-dags.png)</span>
 
 </div>
 
 |                                                                                                                                                                             |                                                                                                                                                                |                                                                                                                                                             |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <span class="image">![Apache Airflow - trigger DAG with config](../assets/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-trigger-dag-with-config.png)</span> | <span class="image">![Apache Airflow - trigger DAG with config](../assets/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-run-config.png)</span> | <span class="image">![Apache Airflow - trigger DAG with config](../assets/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-trigger.png)</span> |
+| <span class="image">![Apache Airflow - trigger DAG with config](/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-trigger-dag-with-config.png)</span> | <span class="image">![Apache Airflow - trigger DAG with config](/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-run-config.png)</span> | <span class="image">![Apache Airflow - trigger DAG with config](/images/how-to-guides/run-hop-in-apache-airflow/apache-airflow-trigger.png)</span> |
 
 <div class="paragraph">
 

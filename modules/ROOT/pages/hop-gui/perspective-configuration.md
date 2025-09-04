@@ -12,7 +12,7 @@
 
 <div class="paragraph">
 
-Icon: <span class="image">![gear](../assets/images/icons/gear.svg)</span>
+Icon: <span class="image">![gear](/images/icons/gear.svg)</span>
 
 </div>
 
@@ -132,7 +132,7 @@ Tip
 <p>number of rows that will be shown when previewing through the Pipeline run toolbar or from transform preview dialogs.</p>
 </div>
 <div class="paragraph">
-<p>INFO: this setting complements the preview option that is used in the <a href="pipeline/pipeline-run-configurations/native-local-pipeline-engine.HKJxBqgrYn">native local pipeline run configuration</a>, which can be accessed through the <span class="image"><img src="../assets/images/transforms/icons/datagrid.svg" alt="data grid" width="16" /></span> <code>preview data</code> icon in the bottom right corner of transforms after a successful run.</p>
+<p>INFO: this setting complements the preview option that is used in the <a href="pipeline/pipeline-run-configurations/native-local-pipeline-engine.HKJxBqgrYn">native local pipeline run configuration</a>, which can be accessed through the <span class="image"><img src="/images/transforms/icons/datagrid.svg" alt="data grid" width="16" /></span> <code>preview data</code> icon in the bottom right corner of transforms after a successful run.</p>
 </div>
 </div></td>
 <td><p>1000</p></td>

@@ -14,7 +14,7 @@
 
 <div class="paragraph">
 
-<span class="image">![Test tube icon](../assets/images/icons/Test_tube_icon.svg)</span>
+<span class="image">![Test tube icon](/images/icons/Test_tube_icon.svg)</span>
 
 </div>
 

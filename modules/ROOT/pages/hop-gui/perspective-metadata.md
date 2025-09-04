@@ -12,7 +12,7 @@
 
 <div class="paragraph">
 
-Icon: <span class="image">![metadata](../assets/images/icons/metadata.svg)</span>
+Icon: <span class="image">![metadata](/images/icons/metadata.svg)</span>
 
 </div>
 
@@ -62,7 +62,7 @@ This perspective has a tree on the left-hand side where the metadata types are s
 
 <div class="content">
 
-![The left-hand tree of the data orchestration perspective](../assets/images/hop-gui/perspective-data-orchestration-left-hand-tree.png)
+![The left-hand tree of the data orchestration perspective](/images/hop-gui/perspective-data-orchestration-left-hand-tree.png)
 
 </div>
 

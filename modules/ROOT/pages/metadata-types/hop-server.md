@@ -14,7 +14,7 @@
 
 <div class="paragraph">
 
-<span class="image">![server](../assets/images/icons/server.svg)</span>
+<span class="image">![server](/images/icons/server.svg)</span>
 
 </div>
 

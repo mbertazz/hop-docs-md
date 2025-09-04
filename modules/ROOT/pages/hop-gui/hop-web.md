@@ -80,7 +80,7 @@ Once your container has started, Hop Web is available at <http://localhost:8080/
 
 <div class="paragraph">
 
-<span class="image">![Hop Web](../assets/images/hop-web.png)</span>
+<span class="image">![Hop Web](/images/hop-web.png)</span>
 
 </div>
 
@@ -352,7 +352,7 @@ Hop Web will now ask for your username and password:
 
 <div class="paragraph">
 
-<span class="image">![Hop Web with basic authentication](../assets/images/hop-gui/hop-web-basic-authentication.png)</span>
+<span class="image">![Hop Web with basic authentication](/images/hop-gui/hop-web-basic-authentication.png)</span>
 
 </div>
 

@@ -14,7 +14,7 @@
 
 <div class="paragraph">
 
-<span class="image">![MongoDB Leaf FullColor RGB](../assets/images/icons/MongoDB_Leaf_FullColor_RGB.svg)</span>
+<span class="image">![MongoDB Leaf FullColor RGB](/images/icons/MongoDB_Leaf_FullColor_RGB.svg)</span>
 
 </div>
 

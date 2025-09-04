@@ -14,7 +14,7 @@
 
 <div class="paragraph">
 
-<span class="image">![partition schema](../assets/images/icons/partition_schema.svg)</span>
+<span class="image">![partition schema](/images/icons/partition_schema.svg)</span>
 
 </div>
 

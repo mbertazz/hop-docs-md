@@ -32,7 +32,7 @@ The following illustration shows an example of where Apache HOP can be integrate
 
 <div class="paragraph">
 
-<span class="image">![Hop web services in Docker - simplified architecture](../assets/images/how-to-guides/web-services-in-docker/simplified-architecture.png)</span>
+<span class="image">![Hop web services in Docker - simplified architecture](/images/how-to-guides/web-services-in-docker/simplified-architecture.png)</span>
 
 </div>
 
@@ -88,7 +88,7 @@ After creating the project and setting up the database connection in HOP, the fo
 
 <div class="paragraph">
 
-<span class="image">![Hop web services in Docker - pipeline](../assets/images/how-to-guides/web-services-in-docker/pipeline.png)</span>
+<span class="image">![Hop web services in Docker - pipeline](/images/how-to-guides/web-services-in-docker/pipeline.png)</span>
 
 </div>
 
@@ -118,7 +118,7 @@ The following metadata are created for the pipeline under the Web Service tab:
 
 <div class="paragraph">
 
-<span class="image">![Hop web services in Docker - metadata](../assets/images/how-to-guides/web-services-in-docker/metadata.png)</span>
+<span class="image">![Hop web services in Docker - metadata](/images/how-to-guides/web-services-in-docker/metadata.png)</span>
 
 </div>
 
@@ -136,7 +136,7 @@ In the pipeline listed above, the content of the output field outputValue of the
 
 <div class="paragraph">
 
-<span class="image">![Hop web services in Docker - JSON Output](../assets/images/how-to-guides/web-services-in-docker/json-output.png)</span>
+<span class="image">![Hop web services in Docker - JSON Output](/images/how-to-guides/web-services-in-docker/json-output.png)</span>
 
 </div>
 
@@ -353,7 +353,7 @@ The call is made as follows:
 
 <div class="paragraph">
 
-<span class="image">![Hop web services in Docker - result](../assets/images/how-to-guides/web-services-in-docker/result.png)</span>
+<span class="image">![Hop web services in Docker - result](/images/how-to-guides/web-services-in-docker/result.png)</span>
 
 </div>
 

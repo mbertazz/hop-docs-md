@@ -82,7 +82,7 @@ When a specific database type is not yet available for the database you want to 
 
 <div class="content">
 
-![Generic Connection Dialog](../assets/images/generic_connection.png)
+![Generic Connection Dialog](/images/generic_connection.png)
 
 </div>
 

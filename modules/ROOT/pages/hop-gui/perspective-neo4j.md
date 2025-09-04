@@ -12,7 +12,7 @@
 
 <div class="paragraph">
 
-Icon: <span class="image">![neo4j logo](../assets/images/icons/neo4j_logo.svg)</span>
+Icon: <span class="image">![neo4j logo](/images/icons/neo4j_logo.svg)</span>
 
 </div>
 

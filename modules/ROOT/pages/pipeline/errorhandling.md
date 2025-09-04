@@ -26,7 +26,7 @@ When you create a hop from a transform that supports error handling to another t
 
 <div class="paragraph">
 
-<span class="image">![Error handling hop option](../assets/images/error-handling-hop-option.png)</span>
+<span class="image">![Error handling hop option](/images/error-handling-hop-option.png)</span>
 
 </div>
 
@@ -38,7 +38,7 @@ If you choose to create an error handling transform, the hop will be shown in re
 
 <div class="paragraph">
 
-<span class="image">![Error handling hop](../assets/images/error-handling-hop.png)</span>
+<span class="image">![Error handling hop](/images/error-handling-hop.png)</span>
 
 </div>
 
@@ -50,7 +50,7 @@ For each transform that supports error handling, there are a number of options y
 
 <div class="paragraph">
 
-<span class="image">![Error handling context dialog](../assets/images/error-handling-context-dialog.png)</span>
+<span class="image">![Error handling context dialog](/images/error-handling-context-dialog.png)</span>
 
 </div>
 
@@ -62,7 +62,7 @@ In the error handling dialog, you can specify additional fields that will be add
 
 <div class="paragraph">
 
-<span class="image">![Error handling dialog](../assets/images/error-handling-dialog.png)</span>
+<span class="image">![Error handling dialog](/images/error-handling-dialog.png)</span>
 
 </div>
 
@@ -92,7 +92,7 @@ An example output when trying to cast an invalid date string to a date is shown 
 
 <div class="paragraph">
 
-<span class="image">![Error handling output](../assets/images/error-handling-output.png)</span>
+<span class="image">![Error handling output](/images/error-handling-output.png)</span>
 
 </div>
 

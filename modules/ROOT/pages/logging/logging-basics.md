@@ -68,7 +68,7 @@ The logging level can be specified when executing using hop-run or in the Hop GU
 
 <div class="content">
 
-![Transform action - show logging options](../assets/images/logging/custom-logging-actions.png)
+![Transform action - show logging options](/images/logging/custom-logging-actions.png)
 
 </div>
 
@@ -84,7 +84,7 @@ You can set a custom logging level for this particular transform and only for ce
 
 <div class="content">
 
-![Setting a custom transform logging level](../assets/images/logging/custom-transform-logging-level.png)
+![Setting a custom transform logging level](/images/logging/custom-transform-logging-level.png)
 
 </div>
 
@@ -100,7 +100,7 @@ You can do likewise for a workflow:
 
 <div class="content">
 
-![Setting a custom action logging level](../assets/images/logging/custom-action-logging-level.png)
+![Setting a custom action logging level](/images/logging/custom-action-logging-level.png)
 
 </div>
 

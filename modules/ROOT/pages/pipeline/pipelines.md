@@ -68,7 +68,7 @@ The example below shows a very basic pipeline. This is what happens when we run 
 
   - the "read-25M-records" transform starts reading data from a file, and pushes that data down the stream to "perform-calculations" and the following transforms. Since reading 25 million records takes a while, some data may already have finished processing while we’re still reading records from the file.
 
-  - the "lookup-sql-data" matches data we read from the file with data we retrieved from the "read-sql-data" transform. The [Stream Lookup](pipeline/transforms/streamlookup.0Nf11JFuxg) accepts input from the "read-sql-data", which is shown with the information icon <span class="image">![info](../assets/images/icons/info.svg)</span> on the hop.
+  - the "lookup-sql-data" matches data we read from the file with data we retrieved from the "read-sql-data" transform. The [Stream Lookup](pipeline/transforms/streamlookup.0Nf11JFuxg) accepts input from the "read-sql-data", which is shown with the information icon <span class="image">![info](/images/icons/info.svg)</span> on the hop.
 
   - once the data from the file and sql query are matched, we check a condition with the [Filter Rows](pipeline/transforms/filterrows.0Nf11JFuxg) transform in "condition?". The output of this data is passed to "write-to-table" or "write-to-file", depending on whether the condition outcome was true or false.
 
@@ -76,7 +76,7 @@ The example below shows a very basic pipeline. This is what happens when we run 
 
 <div class="paragraph">
 
-<span class="image">![Pipelines - basic pipeline](../assets/images/hop-gui/pipeline/basic-pipeline.png)</span>
+<span class="image">![Pipelines - basic pipeline](/images/hop-gui/pipeline/basic-pipeline.png)</span>
 
 </div>
 

@@ -14,7 +14,7 @@
 
 <div class="paragraph">
 
-<span class="image">![workflow log](../assets/images/icons/workflow-log.svg)</span>
+<span class="image">![workflow log](/images/icons/workflow-log.svg)</span>
 
 </div>
 
@@ -60,7 +60,7 @@ Check the metadata perspective for the workflow log `workflow-log-example`. This
 
 <div class="paragraph">
 
-<span class="image">![Workflow Log](../assets/images/metadata-types/workflow-log.png)</span>
+<span class="image">![Workflow Log](/images/metadata-types/workflow-log.png)</span>
 
 </div>
 

@@ -50,7 +50,7 @@ There are two ways to create a workflow.
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui create workflow 1](../assets/images/getting-started/gs-hop-gui-create-workflow-1.png)</span>
+<span class="image">![gs hop gui create workflow 1](/images/getting-started/gs-hop-gui-create-workflow-1.png)</span>
 
 </div>
 
@@ -62,13 +62,13 @@ There are two ways to create a workflow.
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui create workflow 2](../assets/images/getting-started/gs-hop-gui-create-workflow-2.png)</span>
+<span class="image">![gs hop gui create workflow 2](/images/getting-started/gs-hop-gui-create-workflow-2.png)</span>
 
 </div>
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui create workflow 3](../assets/images/getting-started/gs-hop-gui-create-workflow-3.png)</span>
+<span class="image">![gs hop gui create workflow 3](/images/getting-started/gs-hop-gui-create-workflow-3.png)</span>
 
 </div>
 
@@ -80,7 +80,7 @@ Your new workflow is created, and you’ll see the dialog below.
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui create workflow 4](../assets/images/getting-started/gs-hop-gui-create-workflow-4.png)</span>
+<span class="image">![gs hop gui create workflow 4](/images/getting-started/gs-hop-gui-create-workflow-4.png)</span>
 
 </div>
 
@@ -125,7 +125,7 @@ Now you are ready to add the first action. Click anywhere in the workflow canvas
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui create workflow 5](../assets/images/getting-started/gs-hop-gui-create-workflow-5.png)</span>
+<span class="image">![gs hop gui create workflow 5](/images/getting-started/gs-hop-gui-create-workflow-5.png)</span>
 
 </div>
 
@@ -137,7 +137,7 @@ After clicking you will see a dialog:
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui create workflow 6](../assets/images/getting-started/gs-hop-gui-create-workflow-6.png)</span>
+<span class="image">![gs hop gui create workflow 6](/images/getting-started/gs-hop-gui-create-workflow-6.png)</span>
 
 </div>
 
@@ -190,13 +190,13 @@ Creating a hop is identical to creating a hop in a pipeline:
 
   - **scroll-drag**: scroll-click on an action , while holding down your mouse’s scroll button, drag to the second action. Release the scroll button.
 
-  - click on an action in your pipeline to open the '**click anywhere**' dialog. Click the 'Create hop' <span class="image">![Create hop](../assets/images/getting-started/icons/HOP.svg)</span> button and select the action you want to create the hop to.
+  - click on an action in your pipeline to open the '**click anywhere**' dialog. Click the 'Create hop' <span class="image">![Create hop](/images/getting-started/icons/HOP.svg)</span> button and select the action you want to create the hop to.
 
 </div>
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui create workflow add pipeline action](../assets/images/getting-started/gs-hop-gui-create-workflow-add-pipeline-action.png)</span>
+<span class="image">![gs hop gui create workflow add pipeline action](/images/getting-started/gs-hop-gui-create-workflow-add-pipeline-action.png)</span>
 
 </div>
 
@@ -208,7 +208,7 @@ Save your workflow:
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui create workflow save](../assets/images/getting-started/gs-hop-gui-create-workflow-save.png)</span>
+<span class="image">![gs hop gui create workflow save](/images/getting-started/gs-hop-gui-create-workflow-save.png)</span>
 
 </div>
 
@@ -226,7 +226,7 @@ Select the 'local' workflow runtime configuration that is available by default i
 
 <div class="paragraph">
 
-<span class="image">![gs hop gui create workflow run](../assets/images/getting-started/gs-hop-gui-create-workflow-run.png)</span>
+<span class="image">![gs hop gui create workflow run](/images/getting-started/gs-hop-gui-create-workflow-run.png)</span>
 
 </div>
 

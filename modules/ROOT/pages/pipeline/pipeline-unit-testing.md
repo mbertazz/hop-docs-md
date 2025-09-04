@@ -155,7 +155,7 @@ The 'Unit Testing' category in the transform context dialog (click on transform 
 
 <div class="content">
 
-![Pipeline Unit Testing - Data Sets](../assets/images/pipeline-unit-testing-data-sets.png)
+![Pipeline Unit Testing - Data Sets](/images/pipeline-unit-testing-data-sets.png)
 
 </div>
 
@@ -226,7 +226,7 @@ We’ll use this example to create a test to verify the output of the pipeline i
 
 <div class="content">
 
-![Unit Test - Pipeline](../assets/images/pipeline-unit-testing-pipeline.png)
+![Unit Test - Pipeline](/images/pipeline-unit-testing-pipeline.png)
 
 </div>
 
@@ -242,7 +242,7 @@ Click the '+' icon (highlighted) in the unit testing toolbar to create a new uni
 
 <div class="content">
 
-![Unit Test - create test](../assets/images/pipeline-unit-testing-create-unit-test.png)
+![Unit Test - create test](/images/pipeline-unit-testing-create-unit-test.png)
 
 </div>
 
@@ -281,7 +281,7 @@ Click on the 'read customers' transform icon to open the context dialog, click '
 
 <div class="content">
 
-![Unit Test - Create data set](../assets/images/pipeline-unit-testing-create-data-set.png)
+![Unit Test - Create data set](/images/pipeline-unit-testing-create-data-set.png)
 
 </div>
 
@@ -346,7 +346,7 @@ Your pipeline now has two new indicators for ths input and output data set.
 
 <div class="content">
 
-![Unit Test - data set enabled](../assets/images/pipeline-unit-testing-data-sets-enabled.png)
+![Unit Test - data set enabled](/images/pipeline-unit-testing-data-sets-enabled.png)
 
 </div>
 
@@ -402,7 +402,7 @@ In the example below, the number of rows for the year 1990 was changed from 486 
 
 <div class="content">
 
-![Unit test - failed](../assets/images/pipeline-unit-testing-test-failed.png)
+![Unit test - failed](/images/pipeline-unit-testing-test-failed.png)
 
 </div>
 
@@ -451,7 +451,7 @@ In the case of bypassing a transform, your pipeline will look like the one below
 
 <div class="content">
 
-![Unit Test - Bypass transform](../assets/images/pipeline-unit-testing-bypass-transform.png)
+![Unit Test - Bypass transform](/images/pipeline-unit-testing-bypass-transform.png)
 
 </div>
 
@@ -489,7 +489,7 @@ Use the 'Get test names' in this action to specify which of the available unit t
 
 <div class="content">
 
-![Unit Test - Workflow](../assets/images/pipeline-unit-testing-workflow.png)
+![Unit Test - Workflow](/images/pipeline-unit-testing-workflow.png)
 
 </div>
 
@@ -532,7 +532,7 @@ Similar to the workflow action, there’s a transform to run your unit tests:
 
 <div class="paragraph">
 
-<span class="image">![Unit Test - Run Unit Tests](../assets/images/pipeline-unit-testing-run-unit-tests-pipeline.png)</span>
+<span class="image">![Unit Test - Run Unit Tests](/images/pipeline-unit-testing-run-unit-tests-pipeline.png)</span>
 
 </div>
 

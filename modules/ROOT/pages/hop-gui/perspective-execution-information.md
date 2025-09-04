@@ -12,7 +12,7 @@
 
 <div class="paragraph">
 
-Icon: <span class="image">![execution](../assets/images/icons/execution.svg)</span>
+Icon: <span class="image">![execution](/images/icons/execution.svg)</span>
 
 </div>
 
@@ -60,7 +60,7 @@ The execution information displayed in this perspective is not collected automat
 
 <div class="paragraph">
 
-You can navigate to it by clicking the <span class="image">![execution](../assets/images/icons/execution.svg)</span> icon from the vertical perspective toolbar in the Hop GUI.
+You can navigate to it by clicking the <span class="image">![execution](/images/icons/execution.svg)</span> icon from the vertical perspective toolbar in the Hop GUI.
 
 </div>
 
@@ -80,7 +80,7 @@ If you want to view information regarding the *last* execution of the currently 
 
 <div class="content">
 
-![execution information perspective pipeline toolbar icon](../assets/images/execution-information-perspective-pipeline-toolbar-icon.png)
+![execution information perspective pipeline toolbar icon](/images/execution-information-perspective-pipeline-toolbar-icon.png)
 
 </div>
 
@@ -96,7 +96,7 @@ If you’re editing a workflow you can do the same:
 
 <div class="content">
 
-![execution information perspective workflow toolbar icon](../assets/images/execution-information-perspective-workflow-toolbar-icon.png)
+![execution information perspective workflow toolbar icon](/images/execution-information-perspective-workflow-toolbar-icon.png)
 
 </div>
 
@@ -126,7 +126,7 @@ The left-hand side panel of the perspective contains a tree with all the defined
 
 <div class="content">
 
-![An example left panel](../assets/images/execution-information-perspective-left-panel-example.png)
+![An example left panel](/images/execution-information-perspective-left-panel-example.png)
 
 </div>
 
@@ -160,7 +160,7 @@ On the right side are the executions opened in different tabs. For example, here
 
 <div class="content">
 
-![Overview of a right-hand side of the execution information perspective](../assets/images/execution-information-perspective-right-workflow-overview.png)
+![Overview of a right-hand side of the execution information perspective](/images/execution-information-perspective-right-workflow-overview.png)
 
 </div>
 
@@ -234,7 +234,7 @@ If you want to know what went on during the execution of a particular action or 
 
 <div class="content">
 
-![drill down in the execution information perspective](../assets/images/execution-information-perspective-drill-down-toolbar-icon.png)
+![drill down in the execution information perspective](/images/execution-information-perspective-drill-down-toolbar-icon.png)
 
 </div>
 
@@ -262,7 +262,7 @@ If you are looking at the execution that got started by another pipeline or work
 
 <div class="content">
 
-![go to the parent execution](../assets/images/execution-information-perspective-to-parent-toolbar-icon.png)
+![go to the parent execution](/images/execution-information-perspective-to-parent-toolbar-icon.png)
 
 </div>
 
@@ -284,7 +284,7 @@ If you want to quickly navigate from the execution information of a pipeline or 
 
 <div class="content">
 
-![navigate to the editor](../assets/images/execution-information-perspective-to-editor-toolbar-icon.png)
+![navigate to the editor](/images/execution-information-perspective-to-editor-toolbar-icon.png)
 
 </div>
 

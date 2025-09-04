@@ -43,7 +43,7 @@ Consider, for example, the pipeline below. With a single copy of each transform,
 
 <div class="content">
 
-![Pipeline Preview](../assets/images/hop-gui/pipeline/partitionining-preview.png)
+![Pipeline Preview](/images/hop-gui/pipeline/partitionining-preview.png)
 
 </div>
 
@@ -77,7 +77,7 @@ Reading the data from the CSV file is done in parallel. Attempting to aggregate 
 
 <div class="content">
 
-![Pipeline Preview](../assets/images/hop-gui/pipeline/partitionining-preview-2.png)
+![Pipeline Preview](/images/hop-gui/pipeline/partitionining-preview-2.png)
 
 </div>
 
@@ -103,7 +103,7 @@ Data distribution in the transforms is shown in the following table.
 
 <div class="content">
 
-![Pipeline Preview Table](../assets/images/hop-gui/pipeline/partitionining-preview-table.png)
+![Pipeline Preview Table](/images/hop-gui/pipeline/partitionining-preview-table.png)
 
 </div>
 
@@ -119,7 +119,7 @@ As you can see, the CSV file input transform divides the work between two transf
 
 <div class="content">
 
-![Partitioning Buffers](../assets/images/hop-gui/pipeline/partitionining-buffers.png)
+![Partitioning Buffers](/images/hop-gui/pipeline/partitionining-buffers.png)
 
 </div>
 
@@ -135,7 +135,7 @@ This is where partitioning data becomes a useful concept, as it applies specific
 
 <div class="content">
 
-![Partition Schema](../assets/images/hop-gui/pipeline/partitionining-partition-schema.png)
+![Partition Schema](/images/hop-gui/pipeline/partitionining-partition-schema.png)
 
 </div>
 
@@ -145,7 +145,7 @@ This is where partitioning data becomes a useful concept, as it applies specific
 
 <div class="content">
 
-![Pipeline Transform Partitioned](../assets/images/hop-gui/pipeline/partitionining-partitioned.png)
+![Pipeline Transform Partitioned](/images/hop-gui/pipeline/partitionining-partitioned.png)
 
 </div>
 
@@ -171,7 +171,7 @@ The Table output transform supports partitioning rows of data to different table
 
 <div class="content">
 
-![Partitioned Table Transform](../assets/images/hop-gui/pipeline/partitionining-table.png)
+![Partitioned Table Transform](/images/hop-gui/pipeline/partitionining-table.png)
 
 </div>
 
@@ -258,7 +258,7 @@ When a partitioned transform passes data to another partitioned transform with t
 
 <div class="content">
 
-![Partitioning - Swimlanes](../assets/images/hop-gui/pipeline/partitionining-swimlanes-1.png)
+![Partitioning - Swimlanes](/images/hop-gui/pipeline/partitionining-swimlanes-1.png)
 
 </div>
 
@@ -274,7 +274,7 @@ The transform copies remain isolated from one another and the rows of data trave
 
 <div class="content">
 
-![Partitioning - Swimlanes](../assets/images/hop-gui/pipeline/partitionining-swimlanes-2.png)
+![Partitioning - Swimlanes](/images/hop-gui/pipeline/partitionining-swimlanes-2.png)
 
 </div>
 

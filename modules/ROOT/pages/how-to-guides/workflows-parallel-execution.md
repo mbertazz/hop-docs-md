@@ -52,7 +52,7 @@ In the example below, the workflow will execute "sample-pipeline.hpl 1" first. O
 
 <div class="paragraph">
 
-<span class="image">![Sequential actions in Apache Hop workflows](../assets/images/how-to-guides/parallel-workflows/sequential-actions.png)</span>
+<span class="image">![Sequential actions in Apache Hop workflows](/images/how-to-guides/parallel-workflows/sequential-actions.png)</span>
 
 </div>
 
@@ -80,13 +80,13 @@ Keep in mind that parallel execution means that all actions that run in parallel
 
 <div class="paragraph">
 
-<span class="image">![parallel option in Apache Hop workflows](../assets/images/how-to-guides/parallel-workflows/parallel-option.png)</span>
+<span class="image">![parallel option in Apache Hop workflows](/images/how-to-guides/parallel-workflows/parallel-option.png)</span>
 
 </div>
 
 <div class="paragraph">
 
-<span class="image">![parallel actions in Apache Hop workflows](../assets/images/how-to-guides/parallel-workflows/parallel-actions.png)</span>
+<span class="image">![parallel actions in Apache Hop workflows](/images/how-to-guides/parallel-workflows/parallel-actions.png)</span>
 
 </div>
 
@@ -142,13 +142,13 @@ The effective result will be what is shown in the second screenshot below:
 
 <div class="paragraph">
 
-<span class="image">![continue workflow execution in parallel](../assets/images/how-to-guides/parallel-workflows/continue-in-parallel.png)</span>
+<span class="image">![continue workflow execution in parallel](/images/how-to-guides/parallel-workflows/continue-in-parallel.png)</span>
 
 </div>
 
 <div class="paragraph">
 
-<span class="image">![continue workflow execution in parallel is similar two running in two separate streams](../assets/images/how-to-guides/parallel-workflows/continue-in-parallel-two-streams.png)</span>
+<span class="image">![continue workflow execution in parallel is similar two running in two separate streams](/images/how-to-guides/parallel-workflows/continue-in-parallel-two-streams.png)</span>
 
 </div>
 
@@ -172,13 +172,13 @@ In the screenshot below, we’ve isolated the part of the workflow we want to ex
 
 <div class="paragraph">
 
-<span class="image">![parallel execution - parent workflow](../assets/images/how-to-guides/parallel-workflows/parallel-workflow-parent.png)</span>
+<span class="image">![parallel execution - parent workflow](/images/how-to-guides/parallel-workflows/parallel-workflow-parent.png)</span>
 
 </div>
 
 <div class="paragraph">
 
-<span class="image">![parallel actions - child workflow](../assets/images/how-to-guides/parallel-workflows/parallel-actions.png)</span>
+<span class="image">![parallel actions - child workflow](/images/how-to-guides/parallel-workflows/parallel-actions.png)</span>
 
 </div>
 
@@ -218,7 +218,7 @@ To use the Join action:
 
 <div class="paragraph">
 
-<span class="image">![Using the join action instead of a child workflow](../assets/images/how-to-guides/parallel-workflows/continue-in-parallel-join.png)</span>
+<span class="image">![Using the join action instead of a child workflow](/images/how-to-guides/parallel-workflows/continue-in-parallel-join.png)</span>
 
 </div>
 

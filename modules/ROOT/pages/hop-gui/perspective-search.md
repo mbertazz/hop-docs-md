@@ -12,7 +12,7 @@
 
 <div class="paragraph">
 
-Icon: <span class="image">![search](../assets/images/icons/search.svg)</span>
+Icon: <span class="image">![search](/images/icons/search.svg)</span>
 
 </div>
 

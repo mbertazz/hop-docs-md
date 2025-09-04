@@ -14,7 +14,7 @@
 
 <div class="paragraph">
 
-<span class="image">![probe](../assets/images/icons/probe.svg)</span>
+<span class="image">![probe](/images/icons/probe.svg)</span>
 
 </div>
 
